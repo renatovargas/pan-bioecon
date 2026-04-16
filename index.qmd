@@ -2,6 +2,4 @@
 title: "CB de Panamá"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Sitio de la Cuenta de Bioeconomía de Panamá.
