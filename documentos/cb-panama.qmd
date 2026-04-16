@@ -1,5 +1,25 @@
 ---
 title: "Cuenta de Bioeconomía de Panamá"
-format: html
+author:
+  - name: "Renato Vargas"
+    id: rv
+    affiliation: 
+      - name: "Consultant for The World Bank"
+format:
+  html:
+    toc: true
+    html-math-method: katex
+    # css: styles.css
+  docx:
+    reference-doc: custom-reference-doc.docx
+    toc: true
+    number-sections: true
+    syntax-highlighting: github
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+bibliography: references.bib
+csl: apa.csl
 ---
 

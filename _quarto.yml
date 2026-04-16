@@ -11,6 +11,7 @@ website:
         text: Home
       - about.qmd
 
+lang: es
 format:
   html:
     theme:
