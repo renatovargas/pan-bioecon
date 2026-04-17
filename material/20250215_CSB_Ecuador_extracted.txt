@@ -1,0 +1,814 @@
+=== DOCUMENT INFO ===
+Total paragraphs: 212
+Total tables: 15
+
+=== ALL PARAGRAPHS ===
+[P0] Comisión Económica para América Latina y el Caribe (CEPAL)
+[P1] División de Recursos Naturales
+[P2] Unidad de Desarrollo Agrícola y Biodiversidad
+[P3] 
+[P4] 
+[P5] 
+[P6] 
+[P7] 
+[P8] 
+[P9] Implementación de una metodología de construcción de cuentas satélite de bioeconomía con el Sistema de Cuentas Nacionales de Ecuador
+[P10] 
+[P11] 
+[P12] 
+[P13] 
+[P14] 
+[P15] 
+[P16] Renato Vargas, Economista / Consultor de CEPAL
+[P17] 
+[P18] 
+[P19] Contenido
+[P20] 
+[P21] Resumen	1
+[P22] 1. Introducción	2
+[P23] 2. Metodología	5
+[P24] 2.1. Sistema de Cuentas Nacionales, definición de bioeconomía y recursos biológicos	5
+[P25] 2.2. Clasificaciones bioeconómicas de productos y actividades y cálculo del valor agregado bioeconómico	15
+[P26] 2.3. Matriz de insumo-producto y clasificación de actividades por importancia directa e indirecta de la bioeconomía	18
+[P27] 3. Resultados	22
+[P28] 3.1. Tablas de oferta y utilización bioeconómica	22
+[P29] 3.2. Clasificación de actividades por importancia directa e indirecta de la bioeconomía	28
+[P30] 4. Conclusiones	32
+[P31] 5. Bibliografía	33
+[P32] Anexo I. Clasificaciones	35
+[P33] Anexo II. Cálculos con la matriz de Insumo-Producto	42
+[P34] Anexo III. Evolución de la bioeconomía	44
+[P35] 
+[P36] Cuadros
+[P37] Cuadro 1. Tabla de oferta de Ecuador (año 2019, millones de dólares)	9
+[P38] Cuadro 2. Tabla de utilización de Ecuador (año 2019, millones de dólares)	10
+[P39] Cuadro 3. Valor Agregado Bruto y PIB por el lado de la producción (año 2019, millones de dólares)	10
+[P40] Cuadro 4. Tabla de oferta bioeconómica de Ecuador, método de actividades económicas. Año 2019 (millones de dólares).	24
+[P41] Cuadro 5. Tabla de utilización bioeconómica de Ecuador, método de actividades económicas. Año 2019 (millones de dólares).	25
+[P42] Cuadro 6. Valor Agregado Bruto y PIB por el lado de la producción, método de actividades económicas (año 2019, millones de dólares)	26
+[P43] Cuadro 7. Cálculo del valor agregado bioeconómico de Ecuador, método del consumo intermedio. Año 2019 (millones de dólares).	27
+[P44] Cuadro 8. Contribución al valor agregado bioeconómico según clasificación de dependencia directa e indirecta de la bioeconomía.	30
+[P45] Cuadro 9. Clasificación bioeconómica de productos del Ecuador	35
+[P46] Cuadro 10. Clasificación bioeconómica de actividades económicas del Ecuador	40
+[P47] Cuadro 11. Multiplicadores de uso de insumos bioeconómicos según DAM	42
+[P48] Cuadro 6. Participación porcentual de la bioeconomía en diferentes agregados macroeconómicos durante el periodo 2007-2019	44
+[P49] 
+[P50] Figuras
+[P51] Figura 1. ¿Qué debe entenderse por recursos biológicos?	14
+[P52] Figura 2. Abordaje Cuentas de Sectores Clave	16
+[P53] Figura 3. Multiplicadores de bioeconomía total ordenados según Desviación Mediana Absoluta	29
+[P54] Figura 4. Participación porcentual de la bioeconomía en la producción y el consumo intermedio (2007-2019)	30
+[P55] Figura 5. Participación porcentual de la bioeconomía en las importaciones y exportaciones (2007-2019)	31
+[P56] 
+[P57] 
+[P58] 
+[P59] Siglas y acrónimos
+[P60] 
+[P61] 
+[P62] 
+[P63] 
+[P64] 
+[P65] 
+[P66] Resumen
+[P67] Este documento describe la construcción de una cuenta satélite de bioeconomía para Ecuador, como un instrumento para la formulación y seguimiento de políticas públicas relacionadas con la bioeconomía. Además, se muestra una implementación piloto para el periodo 2007-2019, en la que se observa que los recursos biológicos representaron entre 21.65 % y 23.95 % anual de los insumos necesarios para la producción en la economía ecuatoriana de manera directa. También se evidencia que los recursos biológicos han pasado de representar 28.92 % en 2007 a 48.70 % en 2019 de las exportaciones. Los productos bioeconómicos se obtuvo entre 20.19 % y 33.62 % de la recaudación de impuestos a los productos durante el periodo analizado.
+[P68] Introducción
+[P69] Insertado en un proceso de cooperación entre el Fondo de Bioeconomía Sostenible del Ecuador y la Comisión Económica de Naciones Unidas para América Latina y El Caribe, la Cuenta Satélite de Bioeconomía del Ecuador presentada en este documento muestra la contribución de los recursos biológicos a la economía ecuatoriana. El ejercicio presentado aquí complementa esfuerzos previos en el país, como el Libro blanco de la bioeconomía sustentable de Ecuador (García et al., 2024) y la Estrategia Nacional de Bioeconomía Sostenible del Ecuador 2023-2033 (MPCEIP & FIAS, s/f), próxima a publicar.
+[P70] Además de estos esfuerzos, el presente documento también construye sobre el trabajo previo desarrollado por CEPAL en el desarrollo de la metodología de cuentas satélite de bioeconomía y su implementación piloto, publicada como Cuenta satélite de bioeconomía para Costa Rica: Propuesta metodológica y aplicación práctica (Vargas et al., 2022) y una implementación a nivel latinoamericano, descrita en Cuentas satélite de bioeconomía para 13 países de América Latina y el Caribe: metodología y resultados (Vargas et al., 2023), ambos trabajos con el generoso apoyo financiero de la Corporación Alemana para la Cooperación Internacional (GIZ).
+[P71] Los recursos biológicos están ligados a los sectores primarios de la economía y su uso directo es evidente en actividades económicas en peldaños bajos cercanos a aquellos en las cadenas de generación de valor agregado. Al presentar los resultados de estas aplicaciones de la bioeconomía a la macroeconomía, han surgido críticas relacionadas con el hecho que estos recursos también sirven de base a actividades de manufactura y de servicios que se benefician de los mismos de manera indirecta y que mostrar solamente los usuarios directos de la bioeconomía oculta esa contribución. 
+[P72] Esto supone que hay actividades que quizá tengan una baja proporción de recursos biológicos dentro de su función de producción, pero que dependan de insumos de actividades que sí hagan un mayor uso de recursos biológicos. Por esa razón, este ejercicio contribuye con una innovación importante para la determinación de la importancia indirecta de la bioeconomía para actividades económicas más allá de los sectores primarios. Haciendo uso de metodologías de análisis estructural, y aprovechando el hecho que el Banco Central del Ecuador ha publicado una matriz de insumo-producto, se identifica actividades que se benefician de la bioeconomía indirectamente a través de un proceso similar al que se utiliza para la determinación de precios sombra en la formulación de proyectos.
+[P73] La siguiente sección detalla la metodología, la sección 3 muestra los resultados, mientras la última sección presenta conclusiones.
+[P74] Metodología
+[P75] Sistema de Cuentas Nacionales, definición de bioeconomía y recursos biológicos
+[P76] El concepto de bioeconomía es un término práctico que, además de caracterizar un conjunto determinado de bienes y servicios económicos, está diseñado como una respuesta de Nicolás Georgescu-Roegen al problema que supone que los procesos económicos tengan un origen biológico y que, al mismo tiempo, dependan de una cantidad limitada de recursos naturales distribuidos de manera desigual (Georgescu-Roegen, 1975).  Este autor destaca que la economía no puede escapar las leyes de la termodinámica, sobre todo la segunda ley que explica que, a pesar de ser constante en un sistema cerrado, la energía se degrada, desordena y transforma en estados cada vez menos accesibles (Georgescu-Roegen, 1971, 1986). Por esa razón, propone que es deseable desacelerar ese proceso entrópico, evitando en la medida de lo posible que los combustibles fósiles alcancen estados completamente inutilizables (al ser quemados) bajo el modelo energético actual, buscando regular el desperdicio de energía por calentamiento o enfriamiento excesivo, exceso de velocidad y exceso de iluminación, así como por producción innecesaria, entre otros; reducir el consumo extravagante; y mejorar los bienes duraderos de manera que sean reparables y se pueda extender su uso (Georgescu-Roegen, 1975).
+[P77] Es preciso tener un punto de comparación, para entender en qué partes de la economía existen espacios para hacer más eficiente el uso de recursos naturales y para eso es necesario demarcar los alcances del concepto de bioeconomía dentro de procesos de generación de datos estadísticos oficiales existentes, con el fin de poder llevar registro del desempeño económico y su relación con la bioeconomía. La Cuenta Satélite vincula una definición internacionalmente aceptada de bioeconomía con el proceso de generación de estadísticas macroeconómicas.
+[P78] La Estrategia Nacional de Bioeconomía Sostenible del Ecuador 2023-2033, en proceso de construcción, indica que “La bioeconomía es la producción de bienes y servicios que se basa en el uso sostenible de los recursos biológicos y sus derivados obtenidos a partir de procesos productivos, para promover la creación de empleo y contribuir a la disminución de la pobreza” (MPCEIP & FIAS, s/f). Esta es una conceptualización que recoge los elementos más importantes de la definición alcanzada por el pacto nacional de la bioeconomía sostenible en Ecuador, firmado en 2020 por instituciones públicas y privadas representantes del tema, y recopilada en el Libro blanco de la bioeconomía en Ecuador (García et al., 2024), la cual indica que:
+[P79] La bioeconomía representa para el Ecuador una estrategia alternativa de desarrollo basado en la orientación de las actividades económicas enfocadas en la generación de conocimiento, uso y aprovechamiento sostenible de los recursos naturales de la biodiversidad, agrobiodiversidad y sus derivados, a través de un conjunto de políticas, procesos productivos y prácticas fundamentadas en la creación y transferencia de conocimiento, innovación y nuevas tecnologías, que provean productos y servicios, contribuyendo así en la transición hacia un sistema económico sostenible, socialmente inclusivo, competitivo y resiliente. (pacto nacional de la bioeconomía sostenible en Ecuador, citado por García et al., 2024)
+[P80] Uno de los principios anexos a esta definición resaltan la necesidad de “Generar indicadores y herramientas dinámicas que permitan la obtención de información actualizada y confiable [relativa a la contribución de la] bioeconomía al desarrollo sostenible a nivel local, nacional y regional” (García et al., 2024). La Cuenta Satélite de Bioeconomía (CSB) que se describe en este documento responde a esta necesidad, a través de la reorganización de la información macroeconómica del Sistema de Cuentas Nacionales del Ecuador de manera que se revele la contribución de los recursos biológicos a la economía nacional.
+[P81] El Sistema de Cuentas Nacionales (Comisión Europea et al., 2016) es una recopilación de información sobre los grandes agregados macroeconómicos, que se organizan en un sistema coherente de definiciones, clasificaciones y reglas contables. Su fin último es la medición de diferentes aspectos del desempeño económico en un periodo determinado, como la producción, el consumo, la distribución del ingreso y la generación de valor por parte de las actividades económicas. Es un estándar estadístico internacional, el cual es utilizado por el BCE para estimar la generación del Producto Interno Bruto (PIB), entre muchos otros indicadores macroeconómicos.
+[P82] Dos de sus elementos más importantes describen en detalle la producción, el consumo, la importación y exportación de los diferentes grupos de productos importantes para el país a través de las tablas de oferta y utilización. La CSB reorganiza la información de estas tablas para hacer evidente la contribución de los recursos biológicos a la bioeconomía. Para explicar esa reorganización es necesario entender la lógica descrita en dichas tablas. El cuadro 1 muestra una versión altamente agregada de la tabla de utilización de Ecuador para el año 2019. Por el lado de las filas se observan los 278 grupos de productos considerados por Ecuador para representar la economía nacional, agregados en siete grupos, con el objetivo de hacer esta explicación más fácil de comprender. Por el lado de las columnas se tiene dos dimensiones. En primera instancia se ve cinco grandes grupos de transacciones (producción, importaciones, ajuste CIF/FOB, impuestos menos subvenciones sobre los productos, márgenes de distribución). En una segunda dimensión, la cual aplica solamente a la transacción “producción” se tiene a las 71 actividades económicas consideradas por Ecuador para representar a su economía, altamente agregadas en tres grupos de sectores (sector primario, manufacturas, servicios). En el caso de los productos agrícolas (primera fila) la tabla de oferta describe una trayectoria desde la producción (técnicamente el Valor Bruto de Producción) por parte de las actividades económicas en las primeras tres columnas (16.192 + 212 + 4 = 16.408 millones de dólares a precios de productor; es decir, precio a puerta de la finca o unidad productiva), a lo que se suman las importaciones libres de costo de seguro y transporte internacional, 638 millones de dólares, para formar la oferta a precios básicos. No obstante, no es a precios básicos a lo que se enfrentan los compradores, lo supone que en camino al mercado se agregan costos como el de seguro y transporte internacional (Ajuste CIF/FOB), se suman impuestos a los productos, como el impuesto al tabaco u otros similares (12 millones de dólares), se restan las subvenciones a los productos y se suman márgenes de distribución (3.423 millones de dólares) para totalizar una oferta a precios de comprador de 20.527 millones de dólares. Este dato es importante notar para todos los productos, pues producto por producto (es decir, fila por fila) es igual en la tabla de utilización para cumplir con el precepto económico que dicta que la oferta es igual a la demanda.
+[P83] Cuadro 1. Tabla de oferta de Ecuador (año 2019, millones de dólares)
+[P84] Fuente: Elaboración propia con base en el Sistema de Cuentas Nacionales de Ecuador (BCE, 2024).
+[P85] De manera similar, el cuadro 2 muestra la tabla de utilización para Ecuador, la cual también muestra productos agregados en las filas (que coinciden con la tabla de oferta) y transacciones de la utilización en las columnas. Estas últimas son diferentes y describen el consumo intermedio (primeras tres columnas), las exportaciones, el consumo final, y la formación bruta de capital. El consumo intermedio está dividido a su vez en las mismas actividades económicas de la tabla de oferta mostrada en el cuadro 1 y muestra la compra de insumos por esas mismas actividades económicas, necesarios para su producción (las primeras tres columnas). Columna por columna, las proporciones o porcentajes de productos propios y de otras actividades consumidas describen la “receta de cocina” usada para producir su oferta. Para continuar con el ejemplo de los productos agrícolas (primera fila), esta tabla muestra que las actividades económicas (sector primario, manufacturas y servicios) adquieren una parte de la oferta a precios de mercado (1.781 + 7.906 + 886 = 10.573 millones de dólares), otra parte es adquirida por compradores del resto del mundo (5.434 millones de dólares), otra por el consumo final (hogares, gobierno o instituciones sin fines de lucro del país), mientras que otra parte va la formación bruta de capital (que puede ser la variación de existencias, la compra de activos duraderos o la adquisición y disposición de objetos valiosos). Como se estableció en anteriormente, renglón por renglón la oferta es igual a la utilización, evidente en la igualdad de la última columna de ambos cuadros.
+[P86] Cuadro 2. Tabla de utilización de Ecuador (año 2019, millones de dólares)
+[P87] Fuente: Elaboración propia con base en el Sistema de Cuentas Nacionales de Ecuador (BCE, 2024).
+[P88] La relación entre estas tablas es importante, sobre todo las primeras tres columnas del ejemplo, porque al restar el consumo intermedio de la tabla de utilización (cuadro 2) de las ventas (es decir, la producción a precios básicos en el cuadro 1) de las actividades económicas, el remanente es la riqueza adicional generada por el sector en ese periodo (denominada Valor Agregado). El cuadro 3 muestra que la suma de la tabla de oferta para las tres actividades económicas representativas (valor bruto de producción) menos la suma de la tabla de utilización (consumo intermedio) es igual al valor agregado bruto. La suma de todos los valores agregados brutos (100.872 millones de dólares) más impuestos, menos subvenciones (7.236 millones de dólares del cuadro 1) es igual al PIB (108.108 millones de dólares).
+[P89] Cuadro 3. Valor Agregado Bruto y PIB por el lado de la producción (año 2019, millones de dólares)
+[P90] Fuente: Elaboración propia con base en el Sistema de Cuentas Nacionales de Ecuador (BCE, 2024).
+[P91] La medición del desempeño económico que provee el Sistema de Cuentas Nacionales y el hecho que sus resultados son la lingua franca de los actores involucrados en la determinación del gasto público y las políticas de desarrollo le confieren una importancia particular. Por esa razón, la metodología de CSB (descrita en Vargas et al., 2022, 2023) hace particular énfasis en mantener la consistencia con dicho sistema y utiliza los mecanismos de expansión explicados en el Sistema de Cuentas Nacionales mismo (Comisión Europea et al., 2016) para hacer evidente la contribución de los recursos biológicos a la economía. Es posible extender el sistema a través de cambiar las clasificaciones funcionales (por ejemplo, la Clasificación del Consumo Individual por Finalidad, CCIF o la Clasificación de las Funciones de Gobierno, CFG), a través de reorganizar el sistema para hacer evidente cuentas de sectores clave (reorganizando la Clasificación Industrial Internacional Uniforme de todas las Actividades Económicas, CIIU o la Clasificación Central de Productos, CCP); y finalmente a través de cuentas satélite que pueden introducir cantidades físicas, por ejemplo, o introducir cambios conceptuales como un cambio de la definición de la frontera de producción. En el caso de la CSB de Ecuador solamente se utiliza el mecanismo de las cuentas de sectores clave para reorganizar los productos y actividades económicas y el mecanismo híbrido de cuentas satélite para presentar cantidades físicas de empleo, dejando la posibilidad abierta para añadir elementos como cantidades de materiales en un futuro.
+[P92] En esencia lo que se busca hacer es agrupar las filas y columnas de las tablas de oferta y utilización para resaltar la contribución de los recursos biológicos al desempeño económico. El proceso inicia dotando de más detalle a la definición de bioeconomía nacional (García et al., 2024) y a la internacionalmente aceptada (German Bioeconomy Council, 2018). La figura 1 muestra un detalle de lo que debe entenderse por recursos biológicos, según los ejercicios pilotos de la metodología de CSB.
+[P93] Figura 1. ¿Qué debe entenderse por recursos biológicos?
+[P94] 
+[P95] Fuente: Elaboración propia con base en los ejercicios piloto de la metodología de CSB (Vargas et al., 2022, 2023).
+[P96] Clasificaciones bioeconómicas de productos y actividades y cálculo del valor agregado bioeconómico
+[P97] Una vez determinados estos elementos, se contrastan contra la clasificación internacional de productos de manera binaria y se determina si cada uno de sus elementos es o no un recurso biológico o actividad de servicio que no podría existir si no existiera el recurso biológico. Esto es posible en la clasificación internacional por su alto grado de especificidad. Una vez hecha esta clasificación de la clasificación internacional, se contrasta con la nomenclatura local de productos de Ecuador. Como es normal, las nomenclaturas nacionales de productos, que se basan en CPC, no son tan detalladas como esta, pues necesariamente deben enfocarse en solo aquellos productos relevantes para la economía del país y deben agregar a un nivel en que la recolección de datos no constituya una imposibilidad financiera o logística. Entonces, es posible que algunos grupos de productos incluyan una mezcla de recursos biológicos y otros que no lo son y que no se sepa en qué proporción a partir de los datos públicos. Por esa razón, en este nivel se hace una clasificación en tres categorías como se muestra en la figura 2: a) productos característicos de la bioeconomía; b) productos característicos extendidos de la bioeconomía; y c) productos no característicos de la bioeconomía. El detalle para los 271 productos puede verse en el Anexo I, en el cuadro 9.
+[P98] La producción primaria de cada actividad económica determina la clasificación sectorial de la misma. Por ejemplo, los productos bioeconómicos 001001001 Banano y plátano; 001001002 Café cereza, sin tostar, no descafeinado; 001001003 Cacao en grano, crudo o tostado; 001001004 Plantas de banano, café y cacao son producidos por la actividad 001001 Cultivo de banano, café y cacao y determinan su nomenclatura en la clasificación de actividades del Ecuador. Esto quiere decir que también es posible hacer el ejercicio de clasificación bioeconómica, bioeconómica extendida y no bioeconómica para las actividades económicas, lo cual también se ha realizado para Ecuador y puede verse en el Anexo I, en el cuadro 10.
+[P99] Figura 2. Abordaje Cuentas de Sectores Clave
+[P100] 
+[P101] Fuente: Elaboración propia con base en los ejercicios piloto de la metodología de CSB (Vargas et al., 2022, 2023).
+[P102] Dado que el valor agregado se calcula por actividad económica, como se observa en el ejemplo de tres sectores agregados del cuadro 3, esta clasificación bioeconómica por actividad ofrece ventajas y retos. Por una parte permite hacer un cálculo rápido de la suma del valor agregado de las actividades que pertenecen a cada una de las clasificaciones bioeconómicas y ofrecer una noción del “PIB bioeconómico” que muchas iniciativas buscan. Sin embargo, dado que los sectores económicos tienen producciones secundarias, existe una producción y consumo intermedio de productos no bioeconómicos que se hace por las actividades bioeconómicas que sobre estima la contribución de la bioeconomía y, de igual manera, existe una producción y consumo intermedio de productos bioeconómicos por parte de actividades no bioeconómicas que subestima la importancia de la bioeconomía en ese cálculo rápido. Por esa razón, a pesar se cuenta con esa clasificación, se sugiere simplemente no hacer esa distinción.
+[P103] Esto quiere decir que todas las actividades económicas son susceptibles de tener un contenido bioeconómico a través de su consumo intermedio de recursos biológicos. Por esa razón, se sugiere ajustar el determinar la contribución de la bioeconomía ajustando el valor agregado de cada actividad según el porcentaje del consumo intermedio de productos bioeconómicos y/o bioeconómicos extendidos de la misma, explicado por la ecuación (1).
+[P104] 		(1)
+[P105] En dónde:
+[P106]  = Valor agregado bioeconómico de la actividad económica a.
+[P107]  = Valor agregado bruto de la actividad económica a.
+[P108]  = Consumo intermedio de productos bioeconómicos de la actividad económica a. 
+[P109] No determinar a priori qué sectores son importantes para la bioeconomía permite dar seguimiento a la importancia de esa temática en todos los sectores. Esto es relevante en sectores en que hoy no hay una producción o uso de productos bioeconómicos, pero que sería deseable que en el futuro lo hubiere, abriendo la puerta al análisis de la importancia de temas como el creciente uso de biomateriales en la industria, por ejemplo. En los resultados presentamos ambas maneras de cálculo.
+[P110] Matriz de insumo-producto y clasificación de actividades por importancia directa e indirecta de la bioeconomía
+[P111] Al presentar en diversos foros las primeras aplicaciones de la metodología para la determinación de la bioeconomía que aquí se aplica (Vargas et al., 2022, 2023) surgió una crítica importante para el desarrollo de políticas públicas sectoriales. Concentrarse en recursos biológicos deja fuera a importantes sectores económicos que son importantes en las cadenas de valor, pero que ellos mismos no producen o tienen un consumo intermedio de recursos biológicos. Por esa razón, el ejercicio de Ecuador introduce una importante innovación en este sentido. Dado que existe una matriz de insumo-producto para Ecuador, es posible determinar el uso directo e indirecto de productos bioeconómicos y bioeconómicos extendidos a través del cálculo de multiplicadores de demanda.
+[P112] El procedimiento (Vargas & Dietzenbacher, 2015) aísla y suma el consumo intermedio bioeconómico y bioeconómico extendido para cada actividad económica y se construyen coeficientes de uso monetario bioeconómico total por unidad de producto de cada sector (la proporción que resulta de dividir el primer valor por el valor bruto de producción del sector). Estos coeficientes se multiplican por modelo de insumo producto para obtener los multiplicadores como la suma de las columnas de la matriz resultante. Estos multiplicadores indican, tanto el consumo intermedio directo de la actividad, como el consumo indirecto que sucede en actividades económicas que están vinculadas a la actividad en cuestión a través de su cadena de insumos, sin importar a cuantos pasos de distancia se encuentren, por cada unidad monetaria de sus propios productos que dicha actividad económica venda al consumo final.
+[P113] 		(2)
+[P114] En dónde:
+[P115]  = Coeficiente de utilización directa de recursos biológicos por unidad de producto vendida.
+[P116]  = Consumo intermedio de productos bioeconómicos de la actividad económica a. 
+[P117]  = Valor Bruto de Producción de la actividad económica a.
+[P118] Si el vector  contiene todos los coeficientes de utilización directa de recursos biológicos por unidad de producto vendida, entonces, su premultiplicación por la matriz de Leontief del modelo de insumo producto provee los requerimientos directos e indirectos de recursos biológicos por unidad de producto vendido a la demanda final como la suma de las columnas de la matriz resultante. En notación matricial si el modelo de insumo producto es , entonces:
+[P119] 		(3)
+[P120] En dónde:
+[P121]  = Vector de multiplicadores de recursos biológicos directos e indirectos por unidad de producto de todas las actividades económicas.
+[P122]  = Vector sumatorio de unos.
+[P123]  = Matriz cuadrada con el vector de  coeficientes de uso directo de recursos biológicos por unidad de producto vendida de la ecuación (2) en la diagonal con ceros en las demás celdas.
+[P124]  = Matriz de requerimientos directos e indirectos o de Leontief del modelo de insumo producto.
+[P125] Una vez determinada la importancia directa e indirecta que tiene la bioeconomía para cada sector se clasifica a todas las actividades según esa importancia interpretada como la distancia absoluta a la mediana de los multiplicadores, luego se obtiene la mediana de las desviaciones y se clasifican según si están debajo de la mediana (mediana o abajo), una desviación absoluta mediana arriba de la mediana (sobre la mediana), dos desviaciones arriba (alta) o tres desviaciones arriba (muy alta).
+[P126] Resultados
+[P127] Tablas de oferta y utilización bioeconómica
+[P128] El cuadro 4 muestra que la producción nacional de productos bioeconómicos en Ecuador alcanzó un total de 37.178 millones de dólares en 2019 (suma de las primeras 7 columnas), consolidándose como un pilar relevante dentro de la oferta económica nacional. Este segmento incluye un aporte significativo del sector primario, donde los productos agrícolas lideraron con 16.192 millones de dólares. A su vez, las manufacturas bioeconómicas sobresalieron como el principal motor del segmento, con una contribución de 20.774 millones. Otros productos bioeconómicos complementaron el total con 212 millones de dólares, lo que refuerza la importancia de la bioeconomía en diversos sectores productivos. Por su parte, los productos bioeconómicos extendidos generaron 3.075 millones de dólares, con un claro predominio de las manufacturas extendidas, que aportaron 2.603 millones. Dentro de esta categoría, los servicios, en especial los catalogados como otros servicios, sumaron 4.369 millones, reflejando el valor agregado que puede derivarse de esta extensión bioeconómica. Finalmente, los productos no bioeconómicos alcanzaron un volumen considerable de 97.070 millones de dólares, destacando las manufacturas, que representaron 85.725 millones, seguidas de los servicios con 9.968 millones.
+[P129] En el ámbito de las importaciones, los productos bioeconómicos registraron un total de 2.643 millones de dólares, con las manufacturas como el componente más significativo (1.960 millones), seguidas por los productos agrícolas, que alcanzaron 683 millones. Los productos bioeconómicos extendidos, por su parte, importaron 3.179 millones, donde las manufacturas extendidas dominaron ampliamente con 3.098 millones. Por otro lado, los productos no bioeconómicos registraron importaciones de 20.163 millones, destacándose nuevamente las manufacturas con 17.046 millones, consolidando su papel central en este componente del comercio exterior.
+[P130] Respecto a la situación impositiva, los productos bioeconómicos generaron un total de 1.414 millones de dólares en impuestos netos. De este total, las manufacturas aportaron la mayor parte, con 1.402 millones, lo que pone de manifiesto su peso relativo dentro de esta categoría. Los productos bioeconómicos extendidos contribuyeron con 1.087 millones en impuestos, liderados por las manufacturas extendidas, que aportaron 636 millones. Finalmente, los productos no bioeconómicos concentraron el mayor volumen de impuestos netos, con 4.735 millones de dólares. En este caso, las manufacturas nuevamente sobresalieron, generando 2.781 millones, seguidas de los servicios, que contribuyeron con 1.429 millones. 
+[P131] Por su parte, el fuente: elaboración propia con base en el sistema de cuentas nacionales de ecuador (bce, 2024).
+[P132] cuadro 5 muestra la utilización. En términos de consumo intermedio, los productos bioeconómicos sumaron un total de 49.360 millones de dólares, destacándose los productos agrícolas con una contribución de 20.527 millones, seguidos por las manufacturas, que representaron 28.833 millones. Estas cifras reflejan el peso significativo de estos sectores en la utilización total del país. Por su parte, los productos bioeconómicos extendidos alcanzaron un total de 22.910 millones, donde las manufacturas extendidas aportaron 1.086 millones y los servicios —principalmente otros servicios— sumaron 4.951 millones, demostrando su relevancia en la generación de valor agregado en este segmento. En contraste, los productos no bioeconómicos presentaron una utilización total de 138.283 millones de dólares, con las manufacturas liderando con 85.725 millones, seguidas por los servicios con 29.582 millones.
+[P133] En el ámbito de las exportaciones, los productos bioeconómicos representaron 12.134 millones de dólares, liderados por los productos agrícolas, que aportaron 5.434 millones, y las manufacturas bioeconómicas, con 6.700 millones. Este comportamiento reafirma la competitividad internacional de estos segmentos. Los productos bioeconómicos extendidos registraron exportaciones de 344 millones, donde las manufacturas extendidas y otros servicios jugaron un papel menor, pero aún relevante en términos sectoriales. Por otro lado, los productos no bioeconómicos dominaron las exportaciones con un total de 12.439 millones de dólares, impulsados en gran parte por las manufacturas, que sumaron 7.939 millones.
+[P134] En lo que respecta al consumo final, los productos bioeconómicos alcanzaron 17.832 millones de dólares, siendo las manufacturas bioeconómicas el componente más significativo, con 14.597 millones, seguidas de los productos agrícolas, que aportaron 3.235 millones. Este patrón refleja la fuerte demanda doméstica por bienes y servicios vinculados a la bioeconomía. Los productos bioeconómicos extendidos tuvieron un consumo final de 7.391 millones, destacándose nuevamente los servicios, que aportaron 4.242 millones. Finalmente, los productos no bioeconómicos registraron un consumo final total de 53.006 millones, con un aporte importante de las manufacturas, que alcanzaron 41.321 millones, consolidando su relevancia en la estructura de consumo nacional.
+[P135] En el ámbito de las exportaciones, los productos bioeconómicos representaron 12.134 millones de dólares, liderados por los productos agrícolas, que aportaron 5.434 millones, y las manufacturas bioeconómicas, con 6.700 millones. Este comportamiento reafirma la competitividad internacional de estos segmentos. Los productos bioeconómicos extendidos registraron exportaciones de 344 millones, donde las manufacturas extendidas y otros servicios jugaron un papel menor, pero aún relevante en términos sectoriales. Por otro lado, los productos no bioeconómicos dominaron las exportaciones con un total de 12.439 millones de dólares, impulsados en gran parte por las manufacturas, que sumaron 7.939 millones.
+[P136] En lo que respecta al consumo final, los productos bioeconómicos alcanzaron 17.832 millones de dólares, siendo las manufacturas bioeconómicas el componente más significativo, con 14.597 millones, seguidas de los productos agrícolas, que aportaron 3.235 millones. Este patrón refleja la fuerte demanda doméstica por bienes y servicios vinculados a la bioeconomía. Los productos bioeconómicos extendidos tuvieron un consumo final de 7.391 millones, destacándose nuevamente los servicios, que aportaron 4.242 millones. Finalmente, los productos no bioeconómicos registraron un consumo final total de 53.006 millones, con un aporte importante de las manufacturas, que alcanzaron 41.321 millones, consolidando su relevancia en la estructura de consumo nacional.
+[P137] En términos de utilización total, los productos bioeconómicos sumaron un total de 49.360 millones de dólares, destacándose los productos agrícolas con una contribución de 20.527 millones, seguidos por las manufacturas, que representaron 28.833 millones. Estas cifras reflejan el peso significativo de estos sectores en la oferta total del país. Por su parte, los productos bioeconómicos extendidos alcanzaron un total de 22.910 millones, donde las manufacturas extendidas aportaron 1.086 millones y los servicios —principalmente otros servicios— sumaron 4.951 millones, demostrando su relevancia en la generación de valor agregado en este segmento. En contraste, los productos no bioeconómicos presentaron una utilización total de 138.283 millones de dólares, con las manufacturas liderando con 85.725 millones, seguidas por los servicios con 29.582 millones.
+[P138] 
+[P139] Cuadro 4. Tabla de oferta bioeconómica de Ecuador, método de actividades económicas. Año 2019 (millones de dólares).
+[P140] Fuente: Elaboración propia con base en el Sistema de Cuentas Nacionales de Ecuador (BCE, 2024).
+[P141] Cuadro 5. Tabla de utilización bioeconómica de Ecuador, método de actividades económicas. Año 2019 (millones de dólares).
+[P142] Fuente: Elaboración propia con base en el Sistema de Cuentas Nacionales de Ecuador (BCE, 2024).
+[P143] 
+[P144] 
+[P145] En términos de contribución al valor agregado es posible hacer un cálculo rápido del valor agregado por categoría bioeconómica de los sectores, lo cual indicaría que la bioeconomía contribuiría con un 21.3%, la bioeconomía extendida con un 10,5% y la no bioeconomía con un 68,2% del valor agregado total como se muestra en el cuadro 6. Dado que las tablas de oferta y utilización también muestran empleos de tiempo completo por sector, también se puede determinar que las actividades bioeconómicas contribuyen un 27,1%, las extendidas un 14,6% y las no económicas 58,3%).
+[P146] Cuadro 6. Valor Agregado Bruto y PIB por el lado de la producción, método de actividades económicas (año 2019, millones de dólares)
+[P147] Fuente: Elaboración propia con base en el Sistema de Cuentas Nacionales de Ecuador (BCE, 2024).
+[P148] No obstante, como se mencionó anteriormente, ese cálculo sobre y subestima las áreas marcadas con un contorno rojo, tanto en el cuadro 4, como en el fuente: elaboración propia con base en el sistema de cuentas nacionales de ecuador (bce, 2024).
+[P149] cuadro 5. Por esa razón, es más certero obviar esa clasificación por el lado de las actividades y ajustar el valor agregado por la fracción del consumo intermedio que representan los productos bioeconómicos y los bioeconómicos ajustados como se muestra en el cuadro 7. Esto sugiere un ajuste a la baja de la bioeconomía de 21,3% a 15,2% y de la bioeconomía extendida de 10,5% a 8,4%, ajustando la importancia de ambas de 31,8% a 23,6% libre de sobre y subestimaciones.
+[P150] 
+[P151] 
+[P152] Cuadro 7. Cálculo del valor agregado bioeconómico de Ecuador, método del consumo intermedio. Año 2019 (millones de dólares).
+[P153] Fuente: Elaboración propia con base en el Sistema de Cuentas Nacionales de Ecuador (BCE, 2024).
+[P154] 
+[P155] 
+[P156] Clasificación de actividades por importancia directa e indirecta de la bioeconomía
+[P157] Utilizando la matriz de insumo producto de Ecuador, se estimaron multiplicadores de uso de insumos bioeconómicos que explican la cantidad de insumos bioeconómicos (en dólares) que se usan directa e indirectamente por cada dólar que una actividad económica hace llegar a la demanda final. Estas mediciones muestran la dependencia indirecta de los productos bioeconómicos y bioeconómicos extendidos de todas las actividades y van más allá del sector primario. Se hizo una clasificación de mayor a menor de los multiplicadores y luego se agrupó a las actividades según la Desviación Absoluta Mediana (DAM). Esta mide qué tan dispersos están los valores en torno a la mediana. Es una métrica robusta que no se ve afectada por valores extremos, a diferencia de la desviación estándar. Nos concentramos en los siguientes valores en la figura 3. 
+[P158] 1 DAM: actividades que están ligeramente por encima de la mediana, pero todavía cercanas al valor central de los datos.
+[P159] 2 DAMs: Estas actividades son claramente superiores al promedio típico en dependencia de los recursos bioeconómicos, ya que se alejan significativamente del núcleo central de los datos.
+[P160] 3 DAMs: Son observaciones aún más de la mediana y que dependen mucho más a el uso de insumos bioeconómicos directa e indirectamente.
+[P161] Figura 3. Multiplicadores de bioeconomía total ordenados según Desviación Mediana Absoluta
+[P162] 
+[P163] Fuente: Elaboración propia.
+[P164] Llaman la atención sectores manufactureros y de servicios que dependen de la bioeconomía indirectamente y que previamente no los habíamos tomado en cuenta en análisis, como por ejemplo las actividades de Fabricación de prendas de vestir, Fabricación de papel y productos de papel, Servicio de alimento y bebida y Alojamiento. Así como podemos determinar el Valor Agregado de estas actividades, también es posible estimar el valor agregado según ajuste por consumo intermedio de bioeconómicos como se muestra en el cuadro 8. Las tres categorías por encima de la mediana (primeros 3 renglones) representan el 34,1% del valor agregado bruto del país, mientras que el valor agregado ajustado por el consumo intermedio de productos bioeconómicos representa un 16,7% del valor agregado bruto total. Este valor es similar al valor agregado bioeconómico de todas las actividades mostrado en el cuadro 7.
+[P165] Cuadro 8. Contribución al valor agregado bioeconómico según clasificación de dependencia directa e indirecta de la bioeconomía.
+[P166]  Fuente: Elaboración propia.
+[P167] Finalmente, si analizamos la evolución de participación porcentual de la bioeconomía y la bioeconomía extendida en el tiempo, es posible observar una relativa estabilidad en los agregados macroeconómicos relacionados con la producción y el consumo intermedio (figura 4, paneles a. y b.), así como en las importaciones (figura 5, panel a.). La bioeconomía y bioeconomía extendida mantuvieron un promedio de 20,2 % y 7.6 % de la producción, respectivamente, mientras que los promedios en el consumo intermedio fueron de 23,0 % para la bioeconomía y 7.9 % para la bioeconomía extendida. No obstante, las exportaciones han mostrado un cambio sustancial en el periodo de análisis, en el que la participación porcentual de los productos bioeconómicos se ha incrementado de 28,9 % en 2007 a 48,7 % en 2019.
+[P168] Figura 4. Participación porcentual de la bioeconomía en la producción y el consumo intermedio (2007-2019)
+[P169] Fuente: Elaboración propia con base en el Sistema de Cuentas Nacionales de Ecuador (BCE, 2024).
+[P170] Figura 5. Participación porcentual de la bioeconomía en las importaciones y exportaciones (2007-2019)
+[P171] Fuente: Elaboración propia con base en el Sistema de Cuentas Nacionales de Ecuador (BCE, 2024).
+[P172] Conclusiones
+[P173] Los resultados obtenidos en este análisis destacan la importancia de la bioeconomía como un eje estratégico para la economía ecuatoriana. En términos de producción, los productos bioeconómicos y bioeconómicos extendidos representaron conjuntamente más del 30 % de la oferta total, con un valor agregado significativo derivado principalmente de los productos agrícolas y las manufacturas. Este comportamiento reafirma el papel de la bioeconomía en la generación de valor y empleo, tanto en el sector primario como en actividades económicas relacionadas.
+[P174] El análisis de las exportaciones evidencia la competitividad internacional de los productos bioeconómicos, que alcanzaron un 24 % del total exportado, con una fuerte contribución de los productos agrícolas y las manufacturas bioeconómicas. Este patrón subraya la capacidad de la bioeconomía ecuatoriana para integrarse en las cadenas de valor globales, ofreciendo productos de alto valor agregado.
+[P175] En cuanto al consumo final, los productos bioeconómicos demostraron una alta demanda interna, representando más del 23 % del total nacional. Este consumo, concentrado en bienes manufacturados y agrícolas, refleja su relevancia no solo como motor de crecimiento económico, sino también como elemento clave en la satisfacción de las necesidades de los hogares y otras entidades. Es interesante notar que la participación porcentual de los productos bioeconómicos en las exportaciones se ha incrementado de 28,9 % en 2007 a 48,7 % en 2019.
+[P176] Finalmente, el análisis del consumo intermedio resalta la dependencia transversal de múltiples sectores económicos de los insumos bioeconómicos. Esto no solo refuerza la interconexión entre la bioeconomía y otros sectores, sino que también subraya el potencial de políticas integradoras que fortalezcan estos elementos positivos para maximizar los beneficios económicos y sociales. El análisis de multiplicadores permite ubicar sectores que dependen indirectamente de la bioeconomía y que deben ser parte del análisis de política pública relacionada con la temática, como es el caso de los sectores de alimentación y alojamiento, así como la construcción.
+[P177] Estos hallazgos apuntan a la necesidad de continuar desarrollando estrategias que impulsen la bioeconomía en el país, fomentando la innovación, el aprovechamiento sostenible de los recursos biológicos y la integración de cadenas productivas. Con ello, Ecuador puede no solo consolidar su liderazgo en este ámbito, sino también avanzar hacia un modelo de desarrollo más inclusivo y resiliente.
+[P178] Bibliografía
+[P179] 
+[P180] BCE. (2024). Resultados cuentas nacionales anuales: Tablas de oferta y utilización (TOU). Banco Central del Ecuador. https://www.bce.fin.ec/informacioneconomica/sector-real
+[P181] Comisión Europea, Fondo Monetario Internacional, Organización de Cooperación y Desarrollo Económico, Naciones Unidas, & Banco Mundial. (2016). Sistema de Cuentas Nacionales 2008. https://unstats.un.org/unsd/nationalaccount/docs/sna2008spanish.pdf
+[P182] García, J. M., Moncada Paredes, M., Coéllar, J. C., Idrovo, J., Malagón Avilés, O., & Puente, M. C. (2024). Libro blanco de la bioeconomía sustentable de Ecuador. Ministerio de Producción, Comercio Exterior, Inversiones y Pesca; Fondo de Asistencia Técnica en Bioeconomía.
+[P183] Georgescu-Roegen, N. (1971). The Entropy Law and the Economic Process. En The Entropy Law and the Economic Process. Harvard University Press. https://doi.org/10.4159/harvard.9780674281653
+[P184] Georgescu-Roegen, N. (1975). Energy and Economic Myths. Southern Economic Journal, 41(3), 347–381. https://doi.org/10.2307/1056148
+[P185] Georgescu-Roegen, N. (1986). The Entropy Law and the Economic Process in Retrospect. Eastern Economic Journal, 12(1), 3–25.
+[P186] German Bioeconomy Council. (2018). Global Bioeconomy Summit: Conference Report. Innovation in the Global Bioeconomy for Sustainable and Inclusive Transformation and Wellbeing. Bioökonomie Rat, Federal Ministry of Education and Research, Germany.
+[P187] Miller, R. E., & Blair, P. D. (2009). Input-Output Analysis: Foundations and Extensions. Cambridge University Press.
+[P188] MPCEIP, & FIAS. (s/f). Estrategia Nacional de Bioeconomía Sostenible del Ecuador 2023-2033. Ministerio de Producción, Comercio Exterior, Inversiones y Pesca; Fondo de Asistencia Técnica en Bioeconomía.
+[P189] Vargas, R., Alvarado, I., Rodríguez, M., Rodríguez, A., & Wander, P. (2022). Cuenta satélite de bioeconomía para Costa Rica: Propuesta metodológica y aplicación práctica. Comisión Económica para América Latina y el Caribe. https://www.cepal.org/es/publicaciones/48641-cuenta-satelite-bioeconomia-costa-rica-propuesta-metodologica-aplicacion
+[P190] Vargas, R., & Dietzenbacher, E. (2015). Economies to die for: Impacts on human health embodied in production and trade∗. https://www.semanticscholar.org/paper/Economies-to-die-for%3A-Impacts-on-human-health-in-Vargas-Dietzenbacher/c0c9d5b41c123fdd8434d7a36d104299ac3d8a6f
+[P191] Vargas, R., Mondaini, A., & Rodríguez, A. (2023). Cuentas satélite de bioeconomía para 13 países de América Latina y el Caribe: Metodología y resultados. Comisión Económica para América Latina y el Caribe. https://www.cepal.org/es/publicaciones/68683-cuentas-satelite-bioeconomia-13-paises-america-latina-caribe-metodologia
+[P192] 
+[P193] 
+[P194] Anexo I. Clasificaciones
+[P195] Cuadro 9. Clasificación bioeconómica de productos del Ecuador
+[P196] Fuente: Elaboración propia.
+[P197] 
+[P198] Cuadro 10. Clasificación bioeconómica de actividades económicas del Ecuador
+[P199] Fuente: Elaboración propia.
+[P200] 
+[P201] Anexo II. Cálculos con la matriz de Insumo-Producto
+[P202] 
+[P203] Cuadro 11. Multiplicadores de uso de insumos bioeconómicos según DAM
+[P204] Fuente: Elaboración propia.
+[P205] 
+[P206] 
+[P207] Anexo III. Evolución de la bioeconomía
+[P208] Cuadro 12. Participación porcentual de la bioeconomía en diferentes agregados macroeconómicos durante el periodo 2007-2019
+[P209] Fuente: Elaboración propia con base en el Sistema de Cuentas Nacionales de Ecuador (BCE, 2024).
+[P210] 
+[P211] 
+
+=== ALL TABLES ===
+
+--- Table 0 (5 rows x 2 cols) ---
+  Row 0: ['BCE', 'Banco Central del Ecuador']
+  Row 1: ['PIB', 'Producto Interno Bruto']
+  Row 2: ['SCN', 'Sistema de Contabilidad Nacional']
+  Row 3: ['SEEA', 'Sistema de Contabilidad Ambiental y Económica (por sus siglas en inglés)']
+  Row 4: ['VA', 'Valor Agregado']
+
+--- Table 1 (12 rows x 9 cols) ---
+  Row 0: ['\xa0', 'Producción', 'Producción', 'Producción', 'Importa-ciones', 'Ajuste CIF/FOB', 'Impuestos menos sub-venciones sobre los productos', 'Márgenes de distribución', 'Oferta\nTotal']
+  Row 1: ['\xa0', 'A - B', 'C', 'D - S', 'Importa-ciones', 'Ajuste CIF/FOB', 'Impuestos menos sub-venciones sobre los productos', 'Márgenes de distribución', 'Oferta\nTotal']
+  Row 2: ['Producción de', 'Sector primario', 'Manu-facturas', 'Servicios', 'Importa-ciones', 'Ajuste CIF/FOB', 'Impuestos menos sub-venciones sobre los productos', 'Márgenes de distribución', 'Oferta\nTotal']
+  Row 3: ['Productos agrícolas', '16.192', '212', '4', '683', '\xa0', '12', '3.423', '20.527']
+  Row 4: ['Productos mineros', '10.909', '1', '\xa0', '36', '\xa0', '\xa0', '140', '11.087']
+  Row 5: ['Manufacturas', '62', '41.854', '174', '22.105', '\xa0', '4.819', '11.935', '80.950']
+  Row 6: ['Servicios básicos', '88', '17', '4.449', '2', '\xa0', '-103', '\xa0', '4.453']
+  Row 7: ['Construcción', '\xa0', '\xa0', '19.679', '\xa0', '\xa0', '\xa0', '\xa0', '19.679']
+  Row 8: ['Comercio', '140', '679', '14.679', '\xa0', '\xa0', '\xa0', '-15.498', '\xa0']
+  Row 9: ['Otros servicios', '61', '51', '69.170', '3.159', '-1.090', '2.508', '\xa0', '73.858']
+  Row 10: ['Ajuste CIF/FOB', '\xa0', '\xa0', '\xa0', '-1.090', '1.090', '\xa0', '\xa0', '\xa0']
+  Row 11: ['Oferta Total', '27.453', '42.813', '108.156', '24.896', '\xa0', '7.236', '\xa0', '210.553']
+
+--- Table 2 (12 rows x 8 cols) ---
+  Row 0: ['\xa0', 'Consumo Intermedio', 'Consumo Intermedio', 'Consumo Intermedio', 'Exporta-ciones', 'Consumo final', 'Formación bruta de capital', 'Utilización\nTotal']
+  Row 1: ['\xa0', 'A - B', 'C', 'D - S', 'Exporta-ciones', 'Consumo final', 'Formación bruta de capital', 'Utilización\nTotal']
+  Row 2: ['Consumo intermedio de', 'Sector primario', 'Manu-\nfacturas', 'Servicios', 'Exporta-ciones', 'Consumo final', 'Formación bruta de capital', 'Utilización\nTotal']
+  Row 3: ['Productos agrícolas', '1.781', '7.906', '886', '5.434', '3.235', '1.285', '20.527']
+  Row 4: ['Productos mineros', '1.483', '1.336', '330', '7.939', '\xa0', '-1', '11.087']
+  Row 5: ['Manufacturas', '4.171', '14.234', '15.328', '8.980', '29.864', '8.372', '80.950']
+  Row 6: ['Servicios básicos', '351', '364', '2.070', '68', '1.600', '\xa0', '4.453']
+  Row 7: ['Construcción', '28', '13', '1.066', '\xa0', '347', '18.225', '19.679']
+  Row 8: ['Comercio', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0']
+  Row 9: ['Otros servicios', '4.261', '3.101', '18.841', '2.496', '45.034', '125', '73.858']
+  Row 10: ['Ajuste CIF/FOB', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0']
+  Row 11: ['Utilización Total', '12.075', '26.954', '38.521', '24.917', '80.080', '28.006', '210.553']
+
+--- Table 3 (12 rows x 5 cols) ---
+  Row 0: ['\xa0', 'Producción', 'Producción', 'Producción', 'Total']
+  Row 1: ['\xa0', 'A - B', 'C', 'D - S', 'Total']
+  Row 2: ['Producción de', 'Sector primario', 'Manufacturas', 'Servicios', 'Total']
+  Row 3: ['(+) Valor Bruto de Producción', '27.453', '42.813', '108.156', '178.421']
+  Row 4: ['(-) Consumo intermedio', '12.075', '26.954', '38.521', '77.550']
+  Row 5: ['(=) Valor Agregado Bruto', '15.378', '15.858', '69.635', '100.872']
+  Row 6: ['', '', '', '', '']
+  Row 7: ['', '', '', '', '']
+  Row 8: ['Cálculo del Producto Interno Bruto', 'Cálculo del Producto Interno Bruto', 'Cálculo del Producto Interno Bruto', 'Cálculo del Producto Interno Bruto', 'Total']
+  Row 9: ['(+) Valor Agregado Bruto', '(+) Valor Agregado Bruto', '(+) Valor Agregado Bruto', '(+) Valor Agregado Bruto', '100.872']
+  Row 10: ['(+/-) Impuestos menos subvenciones sobre los productos', '(+/-) Impuestos menos subvenciones sobre los productos', '(+/-) Impuestos menos subvenciones sobre los productos', '(+/-) Impuestos menos subvenciones sobre los productos', '7.236']
+  Row 11: ['(=) Producto Interno Bruto (PIB) a precios corrientes', '(=) Producto Interno Bruto (PIB) a precios corrientes', '(=) Producto Interno Bruto (PIB) a precios corrientes', '(=) Producto Interno Bruto (PIB) a precios corrientes', '108.108']
+
+--- Table 4 (19 rows x 13 cols) ---
+  Row 0: ['\xa0', 'Bioeconomía', 'Bioeconomía', 'Bioeconomía extendida', 'Bioeconomía extendida', 'No bioeconomía', 'No bioeconomía', 'No bioeconomía', 'Importaciones', 'Ajuste CIF/FOB', 'Impuestos menos subvenciones', 'Márgenes de distribución', 'Total']
+  Row 1: ['\xa0', 'Sector primario', 'Manufacturas', 'Manufacturas', 'Servicios', 'Sector primario', 'Manufacturas', 'Servicios', 'Importaciones', 'Ajuste CIF/FOB', 'Impuestos menos subvenciones', 'Márgenes de distribución', 'Total']
+  Row 2: ['Bioeconomía', '16.192', '20.986', '95', '\xa0', '\xa0', '1', '166', '2.643', '\xa0', '1.414', '7.863', '49.360']
+  Row 3: ['Productos agrícolas', '16.192', '212', '\xa0', '\xa0', '\xa0', '\xa0', '4', '683', '\xa0', '12', '3.423', '20.527']
+  Row 4: ['Manufacturas', '\xa0', '20.774', '95', '\xa0', '\xa0', '1', '162', '1.960', '\xa0', '1.402', '4.440', '28.833']
+  Row 5: ['Bioeconomía extendida', '\xa0', '376', '2.603', '4.951', '\xa0', '1.507', '7.446', '3.179', '\xa0', '1.087', '1.759', '22.910']
+  Row 6: ['Manufacturas', '\xa0', '376', '2.603', '\xa0', '\xa0', '1.507', '\xa0', '3.098', '\xa0', '636', '1.759', '9.980']
+  Row 7: ['Servicios básicos', '\xa0', '\xa0', '\xa0', '582', '\xa0', '\xa0', '38', '\xa0', '\xa0', '\xa0', '\xa0', '620']
+  Row 8: ['Construcción', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '7.204', '\xa0', '\xa0', '\xa0', '\xa0', '7.204']
+  Row 9: ['Otros servicios', '\xa0', '\xa0', '\xa0', '4.369', '\xa0', '\xa0', '205', '81', '\xa0', '451', '\xa0', '5.106']
+  Row 10: ['No bioeconomía', '138', '320', '1.187', '9.868', '11.122', '15.737', '85.725', '20.163', '-1.090', '4.735', '-9.622', '138.283']
+  Row 11: ['Productos mineros', '\xa0', '\xa0', '\xa0', '\xa0', '10.909', '1', '\xa0', '36', '\xa0', '\xa0', '140', '11.087']
+  Row 12: ['Manufacturas', '\xa0', '4', '1.061', '\xa0', '62', '15.433', '13', '17.046', '\xa0', '2.781', '5.736', '42.136']
+  Row 13: ['Servicios básicos', '\xa0', '11', '1', '12', '88', '5', '3.817', '2', '\xa0', '-103', '\xa0', '3.833']
+  Row 14: ['Construcción', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '12.475', '\xa0', '\xa0', '\xa0', '\xa0', '12.475']
+  Row 15: ['Comercio', '138', '306', '76', '159', '2', '297', '14.520', '\xa0', '\xa0', '\xa0', '-15.498', '\xa0']
+  Row 16: ['Otros servicios', '\xa0', '\xa0', '50', '9.697', '61', '1', '54.900', '3.078', '-1.090', '2.057', '\xa0', '68.752']
+  Row 17: ['Ajuste CIF/FOB', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '-1.090', '1.090', '\xa0', '\xa0', '\xa0']
+  Row 18: ['Oferta Total', '16.330', '21.682', '3.885', '14.819', '11.122', '17.245', '93.337', '24.896', '\xa0', '7.236', '\xa0', '210.553']
+
+--- Table 5 (18 rows x 13 cols) ---
+  Row 0: ['\xa0', 'Bioeconomía', 'Bioeconomía', 'Bioeconomía extendida', 'Bioeconomía extendida', 'No bioeconomía', 'No bioeconomía', 'No bioeconomía', 'Exportaciones', 'Consumo final', 'Formación bruta de capital', 'Total', '']
+  Row 1: ['\xa0', 'Sector primario', 'Manufacturas', 'Manufacturas', 'Servicios', 'Sector primario', 'Manufacturas', 'Servicios', 'Exportaciones', 'Consumo final', 'Formación bruta de capital', 'Total', '']
+  Row 2: ['Bioeconomía', '2.628', '11.253', '202', '1.026', '86', '560', '2.056', '12.134', '17.832', '1.583', '49.360', '\xa0']
+  Row 3: ['Productos agrícolas', '1.741', '7.744', '113', '111', '41', '50', '774', '5.434', '3.235', '1.285', '20.527', '\xa0']
+  Row 4: ['Manufacturas', '887', '3.509', '89', '915', '45', '510', '1.282', '6.700', '14.597', '298', '28.833', '\xa0']
+  Row 5: ['Bioeconomía extendida', '1.109', '267', '1.086', '158', '242', '345', '2.725', '344', '9.242', '7.391', '22.910', '\xa0']
+  Row 6: ['Manufacturas', '803', '195', '1.053', '37', '26', '260', '1.888', '344', '5.300', '75', '9.980', '\xa0']
+  Row 7: ['Servicios básicos', '92', '59', '7', '35', '52', '16', '131', '\xa0', '228', '\xa0', '620', '\xa0']
+  Row 8: ['Construcción', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '7.204', '7.204', '\xa0']
+  Row 9: ['Otros servicios', '215', '13', '27', '87', '164', '69', '705', '\xa0', '3.714', '113', '5.106', '\xa0']
+  Row 10: ['No bioeconomía', '3.079', '2.598', '899', '2.974', '4.930', '9.744', '29.582', '12.439', '53.006', '19.032', '138.283', '\xa0']
+  Row 11: ['Productos mineros', '\xa0', '\xa0', '\xa0', '\xa0', '1.483', '1.336', '330', '7.939', '\xa0', '-1', '11.087', '\xa0']
+  Row 12: ['Manufacturas', '1.249', '1.014', '546', '752', '1.161', '7.058', '10.454', '1.936', '9.967', '7.999', '42.136', '\xa0']
+  Row 13: ['Servicios básicos', '69', '114', '34', '66', '138', '134', '1.838', '68', '1.371', '\xa0', '3.833', '\xa0']
+  Row 14: ['Construcción', '2', '\xa0', '\xa0', '12', '26', '13', '1.054', '\xa0', '347', '11.021', '12.475', '\xa0']
+  Row 15: ['Comercio', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0']
+  Row 16: ['Otros servicios', '1.759', '1.470', '320', '2.143', '2.123', '1.203', '15.906', '2.496', '41.321', '13', '68.752', '\xa0']
+  Row 17: ['Valor Agregado', '9.514', '7.565', '1.698', '10.661', '5.864', '6.596', '58.974', '\xa0', '\xa0', '\xa0', '100.872', '\xa0']
+
+--- Table 6 (6 rows x 5 cols) ---
+  Row 0: ['\xa0', 'Bioeconomía', 'Bioeconomía extendida', 'No bioeconomía', 'Total']
+  Row 1: ['(+) Valor Bruto de Producción', '38.012,7', '18.704,3', '121.704,4', '178.421,4']
+  Row 2: ['(-) Consumo Intermedio', '20.934,1', '6.345,4', '50.270,4', '77.549,8']
+  Row 3: ['(=) Valor Agregado Bruto', '17.078,6', '12.358,9', '71.434,1', '100.871,6']
+  Row 4: ['Porcentajes', '21,3%', '10,5%', '68,2%', '100%']
+  Row 5: ['Empleo', '2.089 (27,1%)', '1.122 (14,6%)', '4.497 (58,3%)', '7.708 (100%)']
+
+--- Table 7 (19 rows x 16 cols) ---
+  Row 0: ['\xa0', 'Producción / Consumo intermedio', 'Producción / Consumo intermedio', 'Producción / Consumo intermedio', 'Producción / Consumo intermedio', 'Producción / Consumo intermedio', 'Producción / Consumo intermedio', 'Producción / Consumo intermedio', 'Exportaciones / Importaciones', 'Ajuste CIF/FOB', 'Impuestos menos subvenciones ', 'Márgenes de distribución', 'Consumo final', 'Formación bruta de capital', 'Total', '%']
+  Row 1: ['\xa0', 'Agricultura', 'Minería', 'Manufacturas', 'Servicios básicos y agua', 'Construcción', 'Comercio', 'Otros servicios', 'Exportaciones / Importaciones', 'Ajuste CIF/FOB', 'Impuestos menos subvenciones ', 'Márgenes de distribución', 'Consumo final', 'Formación bruta de capital', 'Total', '%']
+  Row 2: ['Oferta', '16.330', '11.122', '42.813', '4.462', '19.730', '15.481', '68.482', '24.896', '\xa0', '7.236', '\xa0', '\xa0', '\xa0', '210.553', '100,0%']
+  Row 3: ['Bioeconomía', '16.192', '\xa0', '21.081', '\xa0', '\xa0', '\xa0', '166', '2.643', '\xa0', '1.414', '7.863', '\xa0', '\xa0', '49.360', '23,4%']
+  Row 4: ['Bioeconomía extendida', '\xa0', '\xa0', '4.487', '582', '7.204', '\xa0', '4.612', '3.179', '\xa0', '1.087', '1.759', '\xa0', '\xa0', '22.910', '10,9%']
+  Row 5: ['No bioeconomía', '138', '11.122', '17.244', '3.880', '12.527', '15.481', '63.704', '20.163', '-1.090', '4.735', '-9.622', '\xa0', '\xa0', '138.283', '65,7%']
+  Row 6: ['Ajuste CIF/FOB', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '-1.090', '1.090', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0']
+  Row 7: ['Utilización', '6.816', '5.258', '26.954', '2.647', '7.914', '5.570', '22.390', '24.917', '\xa0', '\xa0', '\xa0', '80.080', '28.006', '210.553', '100,0%']
+  Row 8: ['Bioeconomía', '2.628', '86', '12.015', '\xa0', '1.533', '20', '1.528', '12.134', '\xa0', '\xa0', '\xa0', '17.832', '1.583', '49.360', '23,4%']
+  Row 9: ['Bioeconomía extendida', '1.109', '242', '1.698', '60', '156', '415', '2.252', '344', '\xa0', '\xa0', '\xa0', '9.242', '7.391', '22.910', '10,9%']
+  Row 10: ['No bioeconomía', '3.079', '4.930', '13.242', '2.587', '6.224', '5.134', '18.609', '12.439', '\xa0', '\xa0', '\xa0', '53.006', '19.032', '138.283', '65,7%']
+  Row 11: ['Ajuste CIF/FOB', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0']
+  Row 12: ['Valor Agregado', '9.514', '5.864', '15.858', '1.815', '11.817', '9.912', '46.092', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '100.872', '\xa0100,0%']
+  Row 13: ['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+  Row 14: ['Valor Agregado BIO', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0Total', '\xa0%']
+  Row 15: ['% Bio en Consumo Intermedio', '38,6%', '1,6%', '44,6%', '0,0%', '19,4%', '0,4%', '6,8%', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0']
+  Row 16: ['% Bio extendido en Consumo Intermedio', '16,3%', '4,6%', '6,3%', '2,3%', '2,0%', '7,5%', '10,1%', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '']
+  Row 17: ['VA BIO vía Consumo Intermedio', '3.668', '96', '7.069', '\xa0', '2.289', '36', '3.146', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '16.305', '16,2%']
+  Row 18: ['VA BIO extendido vía Consumo Intermedio', '1.548', '270', '999', '41', '233', '739', '4.636', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '\xa0', '8.465\xa0', '8,4%\xa0']
+
+--- Table 8 (6 rows x 6 cols) ---
+  Row 0: ['Desviación Mediana Absoluta', 'VA Bruto', 'Pct VA Bruto', 'VA Ajustado Bio + Ext en CI', 'Pct VA Bruto de la categoría', 'Pct VA Bio + Ext del VA Bruto total']
+  Row 1: ['1. Muy alta', '12.376,2', '12,3%', '9.601,7', '77,6%', '9,6%']
+  Row 2: ['2. Alta', '3.453,0', '3,4%', '2.260,0', '65,4%', '2,3%']
+  Row 3: ['3. Sobre la mediana', '18.420,7', '18,4%', '4.898,4', '26,6%', '4,9%']
+  Row 4: ['4. Mediana o abajo', '66.046,8', '65,9%', '6.978,4', '10,6%', '7,0%']
+  Row 5: ['Total', '100.296,9', '100,0%', '23.738,5', '\xa0100,0%', '23,7%']
+
+--- Table 9 (2 rows x 2 cols) ---
+  Row 0: ['', '']
+  Row 1: ['Panel a.', 'Panel b.']
+
+--- Table 10 (2 rows x 2 cols) ---
+  Row 0: ['', '']
+  Row 1: ['Panel a.', 'Panel b.']
+
+--- Table 11 (282 rows x 2 cols) ---
+  Row 0: ['Código', 'Nomenclatura Local de Productos']
+  Row 1: ['Bioeconomía', 'Bioeconomía']
+  Row 2: ['001001001', 'Banano y plátano']
+  Row 3: ['001001002', 'Café cereza, sin tostar, no descafeinado']
+  Row 4: ['001001003', 'Cacao en grano, crudo o tostado']
+  Row 5: ['001001004', 'Plantas de banano, café y cacao']
+  Row 6: ['002001001', 'Trigo']
+  Row 7: ['002001002', 'Maíz suave']
+  Row 8: ['002001003', 'Maíz duro']
+  Row 9: ['002001004', 'Arroz con cáscara']
+  Row 10: ['002001005', 'Cebada']
+  Row 11: ['002001006', 'Avena']
+  Row 12: ['002001009', 'Otros cereales n.c.p.']
+  Row 13: ['003001001', 'Rosas']
+  Row 14: ['003001002', 'Gypsophilas']
+  Row 15: ['003001003', 'Claveles']
+  Row 16: ['003001004', 'Otras flores']
+  Row 17: ['003001005', 'Ramilletes, coronas, arreglos florales y artículos similares']
+  Row 18: ['003001009', 'Plantas de flores y semillas de flores']
+  Row 19: ['004001001', 'Papa']
+  Row 20: ['004001002', 'Yuca']
+  Row 21: ['004001003', 'Otros tubérculos y raíces']
+  Row 22: ['004001004', 'Brócoli']
+  Row 23: ['004001005', 'Lechuga']
+  Row 24: ['004001006', 'Tomate']
+  Row 25: ['004001007', 'Fréjol fresco o seco']
+  Row 26: ['004001008', 'Haba fresca o seca']
+  Row 27: ['004001009', 'Arveja fresca o seca']
+  Row 28: ['004001010', 'Lenteja']
+  Row 29: ['004001011', 'Cebolla blanca y colorada']
+  Row 30: ['004001012', 'Sandía']
+  Row 31: ['004001013', 'Pimiento']
+  Row 32: ['004001014', 'Otros vegetales y melones n.c.p.']
+  Row 33: ['004001015', 'Aguacate']
+  Row 34: ['004001016', 'Mango']
+  Row 35: ['004001017', 'Papaya']
+  Row 36: ['004001018', 'Piña']
+  Row 37: ['004001019', 'Tomate de árbol']
+  Row 38: ['004001020', 'Limón']
+  Row 39: ['004001021', 'Naranja']
+  Row 40: ['004001022', 'Mandarina']
+  Row 41: ['004001023', 'Maracuyá']
+  Row 42: ['004001024', 'Mora']
+  Row 43: ['004001025', 'Manzana']
+  Row 44: ['004001026', 'Plantas de frutas']
+  Row 45: ['004001029', 'Otras frutas n.c.p.']
+  Row 46: ['004002001', 'Palma africana']
+  Row 47: ['004002002', 'Soya']
+  Row 48: ['004002003', 'Maní']
+  Row 49: ['004002004', 'Semilla de algodón']
+  Row 50: ['004002005', 'Plantas de frutos oleaginosos']
+  Row 51: ['004002006', 'Otras oleaginosas n.c.p.']
+  Row 52: ['004002007', 'Caña de azúcar']
+  Row 53: ['004002008', 'Tabaco en rama']
+  Row 54: ['004002009', 'Algodón en rama']
+  Row 55: ['004002010', 'Abacá']
+  Row 56: ['004002011', 'Pasto y plantas forrajeras']
+  Row 57: ['004002012', 'Plantas de otros productos agrícolas n.c.p.']
+  Row 58: ['004002019', 'Otros productos agrícolas n.c.p.']
+  Row 59: ['004003001', 'Servicios relacionados con la agricultura']
+  Row 60: ['005001001', 'Ganado bovino']
+  Row 61: ['005001002', 'Ganado ovino y caprino']
+  Row 62: ['005001003', 'Caballos y otros equinos']
+  Row 63: ['005001004', 'Ganado porcino']
+  Row 64: ['005001005', 'Conejos y cuyes']
+  Row 65: ['005001006', 'Pollos (incluidos pollitos de un día)']
+  Row 66: ['005001007', 'Otras aves n.c.p.']
+  Row 67: ['005001008', 'Otros animales vivos n.c.p. (excepto ranas)']
+  Row 68: ['005001009', 'Leche fresca sin elaborar']
+  Row 69: ['005001010', 'Huevos']
+  Row 70: ['005001011', 'productos comestibles de origen animal n.c.p.']
+  Row 71: ['005001012', 'Lana']
+  Row 72: ['005001013', 'Cuero sin curtir y piel']
+  Row 73: ['005001019', 'Otros productos de otros animales n.c.p.']
+  Row 74: ['006001001', 'Madera sin elaborar']
+  Row 75: ['006001002', 'Plantas de árboles maderables.']
+  Row 76: ['006001003', 'Caucho natural (en formas primarias o planchas)']
+  Row 77: ['006001009', 'Otros productos de la silvicultura n.c.p.']
+  Row 78: ['007001001', 'Larvas de camarón']
+  Row 79: ['007001002', 'Camarón vivo o fresco']
+  Row 80: ['008001001', 'Atún']
+  Row 81: ['008001002', 'Pescado vivo, fresco o refrigerado (excepto atún)']
+  Row 82: ['008001009', 'Otros productos de la pesca n.c.p.']
+  Row 83: ['008002001', 'Tilapia']
+  Row 84: ['008002002', 'Otros productos de la acuicultura (incluye ranas)']
+  Row 85: ['011001001', 'Carne de ganado bovino']
+  Row 86: ['011001002', 'Carne de ganado porcino']
+  Row 87: ['011001003', 'Carne de otro tipo de ganado n.c.p.']
+  Row 88: ['011001004', 'Carne de pollo']
+  Row 89: ['011001005', 'Carne de otras aves de corral']
+  Row 90: ['011001006', 'Despojos comestibles de mamíferos y aves de corral']
+  Row 91: ['011001007', 'Embutidos, conservas y preparados de carne']
+  Row 92: ['011001008', 'Grasas animales en bruto (incluye manteca de cerdo y aves de corral fundidas)']
+  Row 93: ['011001019', 'Otros productos y subproductos de la carne n.c.p.']
+  Row 94: ['012001001', 'Camarón elaborado']
+  Row 95: ['013001001', 'Pescado congelado, seco o salado; filetes de pescado']
+  Row 96: ['013001002', 'Otros productos de especies acuáticas elaboradas']
+  Row 97: ['013001003', 'Harina de pescado (excepto de consumo humano)']
+  Row 98: ['013001009', 'Otros productos y subproductos de la pesca n.c.p.']
+  Row 99: ['013002001', 'Preparados y conservas de pescado y de otras especies acuáticas']
+  Row 100: ['014001001', 'Grasas animales fundidas (excepto de cerdo y aves de corral)']
+  Row 101: ['014001002', 'Aceites vegetales crudos']
+  Row 102: ['014001003', 'Aceites refinados']
+  Row 103: ['014001004', 'Margarina y otros aceites y grasas vegetales']
+  Row 104: ['014001009', 'Otros productos de oleaginosas']
+  Row 105: ['015001001', 'Leche elaborada']
+  Row 106: ['015001002', 'productos derivados de la leche']
+  Row 107: ['016001001', 'Harina de trigo']
+  Row 108: ['016001002', 'Arroz pilado, blanqueado y pulido']
+  Row 109: ['016001003', 'Otras harinas vegetales, sémolas y otros productos']
+  Row 110: ['016001004', 'Almidones y sus productos']
+  Row 111: ['016002001', 'productos de la panadería y pastelería']
+  Row 112: ['016003001', 'Fideos, macarrones y otros productos farináceos similares']
+  Row 113: ['017001001', 'Azúcar sin refinar, refinada y sacarosa']
+  Row 114: ['017001002', 'Melaza']
+  Row 115: ['018001001', 'Cacao elaborado sin edulcorantes']
+  Row 116: ['018001002', 'Chocolate y bombones (incluye polvo de cacao con edulcorante)']
+  Row 117: ['018001003', 'productos de confitería']
+  Row 118: ['019001001', 'Alimento para animales']
+  Row 119: ['019002001', 'Café tostado, molido, soluble y otros n.c.p.']
+  Row 120: ['019003001', 'Otros productos alimenticios n.c.p.']
+  Row 121: ['020001001', 'Alcohol etílico y bebidas alcohólicas']
+  Row 122: ['020001002', 'Cerveza y malta']
+  Row 123: ['020002001', 'Bebidas no alcohólicas']
+  Row 124: ['020003001', 'cigarrillos y otros productos de tabaco']
+  Row 125: ['021003001', 'Cuero y piel curtida']
+  Row 126: ['021003002', 'productos de cuero (excepto calzado y prendas de vestir)']
+  Row 127: ['022001001', 'Madera aserrada, cortada o descortezada']
+  Row 128: ['022001002', 'Tableros, paneles y hojas de madera']
+  Row 129: ['Bioeconomía extendida', 'Bioeconomía extendida']
+  Row 130: ['021001001', 'Hilos e hilados de fibras textiles']
+  Row 131: ['021001002', 'Tejidos y telas de fibras textiles']
+  Row 132: ['021001003', 'Confecciones con materiales textiles (excepto prendas de vestir)']
+  Row 133: ['021002001', 'Prendas de vestir (inclusive de cuero y piel)']
+  Row 134: ['021003009', 'Calzado de cualquier material']
+  Row 135: ['022001003', 'Obras de carpintería para edificios']
+  Row 136: ['022001009', 'Cajas, cajones y otros productos de madera, corcho y trenzables']
+  Row 137: ['023001001', 'Pasta de papel']
+  Row 138: ['023001002', 'Papel y cartón']
+  Row 139: ['023001003', 'Cajas de cartón y otros productos de papel y cartón']
+  Row 140: ['025001002', 'Abonos y plaguicidas']
+  Row 141: ['025002002', 'productos farmacéuticos y medicamentos']
+  Row 142: ['025002003', 'Jabón y detergentes']
+  Row 143: ['033002001', 'Agua']
+  Row 144: ['033002003', 'Servicios de saneamiento y remediación']
+  Row 145: ['034001001', 'Trabajos de preparación del terreno']
+  Row 146: ['036002001', 'Servicios de suministro de comida y de bebida']
+  Row 147: ['042001001', 'Servicios de investigación y desarrollo']
+  Row 148: ['042001009', 'Otros servicios profesionales y técnicos']
+  Row 149: ['042001010', 'Servicios veterinarios']
+  Row 150: ['No bioeconomía', 'No bioeconomía']
+  Row 151: ['009001001', 'Petróleo crudo']
+  Row 152: ['009001002', 'Gas natural']
+  Row 153: ['009002001', 'Servicios relacionados con el petróleo y gas natural']
+  Row 154: ['010001001', 'Minerales de metales preciosos']
+  Row 155: ['010001002', 'Minerales de cobre y sus concentrados']
+  Row 156: ['010001003', 'Otros minerales metalíferos']
+  Row 157: ['010002001', 'Piedras, arenas y arcillas']
+  Row 158: ['010002009', 'Otros minerales no metálicos n.c.p.']
+  Row 159: ['023001004', 'productos editoriales imprentas y otros productos n.c.p.']
+  Row 160: ['024001001', 'Gasolinas']
+  Row 161: ['024001002', 'Naftas y gasolina natural']
+  Row 162: ['024001003', 'Diesel']
+  Row 163: ['024001004', 'Fuel Oil']
+  Row 164: ['024001005', 'Spray oil']
+  Row 165: ['024001006', 'Otros combustibles y aceites de petróleo (incluye lubricantes)']
+  Row 166: ['024001007', 'Gases de hidrocarburos']
+  Row 167: ['024001009', 'Otros productos y subproductos de petróleo; coque y alquitrán']
+  Row 168: ['025001001', 'productos químicos básicos']
+  Row 169: ['025001003', 'Plásticos primarios y caucho sintético y artificial']
+  Row 170: ['025002001', 'Pinturas, barnices, lacas, colores y tintas']
+  Row 171: ['025002004', 'Perfumes y preparados de tocador']
+  Row 172: ['025002005', 'Preparados para limpiar y pulir']
+  Row 173: ['025002006', 'Fibras sintéticas (textiles manufacturadas)']
+  Row 174: ['025002009', 'Otros productos químicos n.c.p.']
+  Row 175: ['026001001', 'Neumáticos y cámaras de aire']
+  Row 176: ['026001009', 'Otros productos de caucho n.c.p.']
+  Row 177: ['026002001', 'productos de plástico']
+  Row 178: ['027001001', 'Vidrio y productos de vidrio']
+  Row 179: ['027001002', 'productos de cerámica no estructurales']
+  Row 180: ['027001003', 'productos refractarios, productos de arcilla no refractarios estructurales']
+  Row 181: ['027002001', 'Cemento y clínker de cemento']
+  Row 182: ['027002002', 'Artículos de hormigón, cemento y yeso; cal y yeso']
+  Row 183: ['027002009', 'Piedras y otros productos de minerales no metálicos']
+  Row 184: ['028001001', 'productos de hierro y acero']
+  Row 185: ['028001002', 'Metales preciosos y enchapados con metales preciosos']
+  Row 186: ['028001009', 'productos de otros metales']
+  Row 187: ['028002001', 'productos metálicos estructurales']
+  Row 188: ['028002002', 'productos metálicos de uso doméstico']
+  Row 189: ['028002003', 'Armas y municiones, partes y piezas']
+  Row 190: ['028002009', 'Otros productos metálicos n.c.p.']
+  Row 191: ['029001001', 'maquinaria para usos generales']
+  Row 192: ['029001002', 'maquinaria para usos especiales (excepto de uso doméstico)']
+  Row 193: ['029001003', 'Aparatos de uso doméstico, partes y piezas']
+  Row 194: ['029001004', 'Máquinas de oficina y contabilidad (excepto informática)']
+  Row 195: ['029001005', 'maquinaria informática; partes, piezas y accesorios']
+  Row 196: ['029001006', 'maquinaria y aparatos eléctricos']
+  Row 197: ['029001007', 'Equipos y aparatos de radio, TV y comunicaciones']
+  Row 198: ['029001009', 'Equipo radiológico, electromédico; instrumentos ópticos; de medición y control; relojes y otra máquina y equipo n.c.p.']
+  Row 199: ['030001001', 'Vehículos automotores']
+  Row 200: ['030001009', 'Otro equipo y material de transporte n.c.p.']
+  Row 201: ['031001001', 'Muebles de cualquier material']
+  Row 202: ['032001001', 'Joyas']
+  Row 203: ['032001002', 'Aparatos de laboratorio, odontológicos y otros instrumentos médicos n.c.p.']
+  Row 204: ['032001009', 'Otros productos manufacturados diversos']
+  Row 205: ['032001010', 'Servicios de reparación e instalación de maquinaria y equipo']
+  Row 206: ['033001001', 'Energía eléctrica']
+  Row 207: ['033001002', 'Servicios de transmisión y distribución eléctrica']
+  Row 208: ['033002002', 'Gas de productos diferentes al petróleo y distribución de gas por tuberías']
+  Row 209: ['034001002', 'Construcción de edificios residenciales']
+  Row 210: ['034001003', 'Construcción de edificios no residenciales']
+  Row 211: ['034001004', 'Construcción de obras de ingeniería civil']
+  Row 212: ['034001005', 'Servicios de instalación, acabado y finalización de edificios']
+  Row 213: ['035001001', 'Servicios de comercio']
+  Row 214: ['035002001', 'Servicios de reparación y mantenimiento de vehículos de motor y motocicletas']
+  Row 215: ['036001001', 'Servicios de hotelería y alojamiento']
+  Row 216: ['037001001', 'Servicios de transporte de pasajeros por carretera']
+  Row 217: ['037001002', 'Servicio de transporte de carga por carretera']
+  Row 218: ['037001003', 'Servicios de transporte por ferrocarril']
+  Row 219: ['037001004', 'Servicios de transporte por tubería']
+  Row 220: ['037001005', 'Servicios de transporte por vía acuática']
+  Row 221: ['037001006', 'Servicios de transporte de pasajeros por vía aérea']
+  Row 222: ['037001007', 'Servicios de transporte de carga por vía aérea']
+  Row 223: ['037001008', 'Servicios de alquiler de vehículos de transporte con tripulación']
+  Row 224: ['037001009', 'Servicios de carga y descarga']
+  Row 225: ['037001010', 'Servicios de almacenamiento']
+  Row 226: ['037001011', 'Servicios complementarios y auxiliares del transporte']
+  Row 227: ['038001001', 'Servicios postales y de mensajería']
+  Row 228: ['038002001', 'Servicios telefónicos fijos']
+  Row 229: ['038002002', 'Servicios telefónicos celulares']
+  Row 230: ['038002003', 'Servicios de internet']
+  Row 231: ['038002009', 'Otros servicios de telecomunicaciones']
+  Row 232: ['038002010', 'Servicios de informática y servicios conexos']
+  Row 233: ['038002011', 'Servicios de publicación y grabación de programas informáticos, películas, video y grabaciones']
+  Row 234: ['039001001', 'Servicios de Banca Central']
+  Row 235: ['039001002', 'Servicios de intermediación financiera de otras instituciones de depósito']
+  Row 236: ['039001003', 'Fondos de inversión']
+  Row 237: ['039001004', 'Otros servicios de intermediación financiera']
+  Row 238: ['039001005', 'Servicios auxiliares de intermediación financiera']
+  Row 239: ['039001006', 'SIFMI (Servicio de Intermediación Financiera Medido Indirectamente)']
+  Row 240: ['040001001', 'Servicios de seguros de vida']
+  Row 241: ['040001002', 'Servicios de planes de pensiones']
+  Row 242: ['040001003', 'Otros servicios de seguros']
+  Row 243: ['041001001', 'Alquiler de vivienda']
+  Row 244: ['041001002', 'Alquiler imputado de vivienda']
+  Row 245: ['041001003', 'Otros servicios inmobiliarios']
+  Row 246: ['042001002', 'Servicios jurídicos y legales']
+  Row 247: ['042001003', 'Servicios de contabilidad, auditoría y otros']
+  Row 248: ['042001004', 'Servicios de asesoría y consultoría']
+  Row 249: ['042001005', 'Servicios de arquitectura, ingeniería y análogos']
+  Row 250: ['042001006', 'Servicios de publicidad']
+  Row 251: ['042001007', 'Servicios de estudios de mercado y encuestas']
+  Row 252: ['042001008', 'Servicios fotográficos']
+  Row 253: ['042001011', 'Servicios de empleo']
+  Row 254: ['042001012', 'Servicios de investigación y seguridad']
+  Row 255: ['042001013', 'Servicios de limpieza']
+  Row 256: ['042001014', 'Servicios de arrendamiento de maquinaria y otros artículos sin operarios']
+  Row 257: ['042001015', 'Servicios de agencias de viajes y análogos']
+  Row 258: ['042001016', 'Servicios de concesión de licencias para el derecho de uso de activos intangibles']
+  Row 259: ['042001017', 'Servicios de reparación de computadoras y otros enseres domésticos']
+  Row 260: ['042001029', 'Otros servicios empresariales n.c.p.']
+  Row 261: ['043001001', 'Servicios administrativos del gobierno']
+  Row 262: ['043001002', 'Servicios de la seguridad social obligatoria']
+  Row 263: ['044001001', 'Servicios de enseñanza preprimaria y primaria privada (de mercado)']
+  Row 264: ['044001002', 'Servicios de enseñanza secundaria privada (de mercado)']
+  Row 265: ['044001003', 'Servicios de enseñanza superior privada (de mercado)']
+  Row 266: ['044001004', 'Otros servicios de enseñanza privada (de mercado)']
+  Row 267: ['044001009', 'Otros servicios de enseñanza privada (ISFLSH)']
+  Row 268: ['044002001', 'Servicios de enseñanza preprimaria y primaria público (no de mercado)']
+  Row 269: ['044002002', 'Servicios de enseñanza secundaria público (no de mercado)']
+  Row 270: ['044002003', 'Servicios de enseñanza superior público (no de mercado)']
+  Row 271: ['044002009', 'Otros servicios de enseñanza público (no de mercado)']
+  Row 272: ['045001001', 'Servicios de salud de mercado (privados)']
+  Row 273: ['045001002', 'Servicios sociales de mercado (privados)']
+  Row 274: ['045001009', 'Otros servicios sociales y de salud (ISFLSH)']
+  Row 275: ['045002001', 'Servicios de salud no de mercado (pública)']
+  Row 276: ['046001001', 'Servicios de asociaciones']
+  Row 277: ['046001002', 'Servicios recreacionales, culturales y deportivos']
+  Row 278: ['046001003', 'Servicios de asociaciones; esparcimiento; culturales y deportivos (ISFLSH)']
+  Row 279: ['046001009', 'Otros servicios n.c.p.']
+  Row 280: ['047001001', 'Servicio doméstico']
+  Row 281: ['048001001', 'Compras Directas']
+
+--- Table 12 (75 rows x 2 cols) ---
+  Row 0: ['Código', 'Descripción Actividades']
+  Row 1: ['Bioeconomía', 'Bioeconomía']
+  Row 2: ['001001', 'Cultivo de banano, café y cacao']
+  Row 3: ['002001', 'Cultivo de cereales']
+  Row 4: ['003001', 'Cultivo de flores']
+  Row 5: ['004001', 'Cultivo de tubérculos, vegetales, melones y frutas']
+  Row 6: ['004002', 'Cultivo oleaginosas e industriales']
+  Row 7: ['004003', 'Actividades de apoyo a los cultivos']
+  Row 8: ['005001', 'Cría de ganado, otros animales; productos animales; y actividades de apoyo']
+  Row 9: ['006001', 'Silvicultura, extracción de madera y actividades relacionadas']
+  Row 10: ['007001', 'Acuicultura y pesca de camarón']
+  Row 11: ['008001', 'Pesca (excepto camarón)']
+  Row 12: ['008002', 'Acuicultura (excepto camarón)']
+  Row 13: ['011001', 'Procesamiento y conservación de carne']
+  Row 14: ['012001', 'Procesamiento y conservación de camarón']
+  Row 15: ['013001', 'Procesamiento de pescado y otros productos acuáticos elaborados']
+  Row 16: ['013002', 'Conservación de especies acuáticas']
+  Row 17: ['014001', 'Elaboración de aceites y grasas origen vegetal y animal']
+  Row 18: ['015001', 'Elaboración de productos lácteos']
+  Row 19: ['016001', 'Elaboración de productos de molinería']
+  Row 20: ['016002', 'Elaboración de productos de la panadería']
+  Row 21: ['016003', 'Elaboración de  fideos y de otros productos farináceos']
+  Row 22: ['017001', 'Elaboración y refinación de azúcar']
+  Row 23: ['018001', 'Elaboración de cacao, chocolate y productos de confitería']
+  Row 24: ['019001', 'Elaboración de alimentos preparados para animales']
+  Row 25: ['019002', 'Elaboración de café']
+  Row 26: ['019003', 'Elaboración de otros productos alimenticios diversos']
+  Row 27: ['020001', 'Elaboración bebidas alcohólicas']
+  Row 28: ['020002', 'Elaboración bebidas no alcohólicas']
+  Row 29: ['020003', 'Elaboración de productos de tabaco']
+  Row 30: ['022001', 'Producción de madera y productos de madera']
+  Row 31: ['Bioeconomía extendida', 'Bioeconomía extendida']
+  Row 32: ['021001', 'Fabricación de hilos, hilados; tejidos y confecciones']
+  Row 33: ['021002', 'Fabricación de prendas de vestir']
+  Row 34: ['021003', 'Fabricación de cuero, productos de cuero y calzado']
+  Row 35: ['023001', 'Fabricación de papel y productos de papel']
+  Row 36: ['025001', 'Fabricación de sustancias químicas básicas, abonos y plásticos primarios']
+  Row 37: ['033002', 'Captación, depuración y distribución de agua; y saneamiento']
+  Row 38: ['036002', 'Servicio de alimento y bebida']
+  Row 39: ['042001', 'Actividades profesionales, técnicas y administrativas']
+  Row 40: ['No bioeconomía', 'No bioeconomía']
+  Row 41: ['009001', 'Extracción de petróleo crudo y gas natural']
+  Row 42: ['009002', 'Actividades de apoyo a la extracción de petróleo y gas natural']
+  Row 43: ['010001', 'Explotación de minerales metálicos']
+  Row 44: ['010002', 'Explotación de minerales no metálicos y actividades de apoyo a las minas y canteras']
+  Row 45: ['024001', 'Fabricación de productos refinados de petróleo y de otros']
+  Row 46: ['025002', 'Fabricación de otros productos químicos']
+  Row 47: ['026001', 'Fabricación de productos de caucho']
+  Row 48: ['026002', 'Fabricación de productos de plástico']
+  Row 49: ['027001', 'Fabricación de vidrio, productos refractarios y de cerámica']
+  Row 50: ['027002', 'Fabricación de cemento, artículos de hormigón y piedra']
+  Row 51: ['028001', 'Fabricación de metales comunes']
+  Row 52: ['028002', 'Fabricación de productos derivados del metal, excepto maquinaria y equipo']
+  Row 53: ['029001', 'Fabricación de maquinaria y equipo']
+  Row 54: ['030001', 'Fabricación de equipo de transporte']
+  Row 55: ['031001', 'Fabricación de muebles']
+  Row 56: ['032001', 'Industrias manufactureras n.c.p.']
+  Row 57: ['033001', 'Generación, captación y distribución de energía eléctrica']
+  Row 58: ['034001', 'Construcción']
+  Row 59: ['035001', 'Comercio al por mayor y al por menor; incluido comercio de vehículos automotores y motocicletas']
+  Row 60: ['035002', 'Servicios de reparación y mantenimiento de vehículos de motor y motocicletas']
+  Row 61: ['036001', 'Alojamiento']
+  Row 62: ['037001', 'Transporte y almacenamiento']
+  Row 63: ['038001', 'Actividades postales y de correo']
+  Row 64: ['038002', 'Comunicaciones e información']
+  Row 65: ['039001', 'Actividades de servicios financieros']
+  Row 66: ['040001', 'Financiación de planes de seguro, excepto seguridad social']
+  Row 67: ['041001', 'Actividades inmobiliarias']
+  Row 68: ['043001', 'Administración pública, defensa; planes de seguridad social obligatoria']
+  Row 69: ['044001', 'Servicios de enseñanza privado']
+  Row 70: ['044002', 'Servicios de enseñanza público (no de mercado)']
+  Row 71: ['045001', 'Servicios sociales y de salud privados']
+  Row 72: ['045002', 'Servicios sociales y de salud no de mercado (públicos)']
+  Row 73: ['046001', 'Entretenimiento, recreación y otras actividades de servicios']
+  Row 74: ['047001', 'Hogares privados con servicio doméstico']
+
+--- Table 13 (75 rows x 2 cols) ---
+  Row 0: ['Clasificación DAM / Actividad Económica', 'Multiplicador']
+  Row 1: ['Muy alta (3 DAM)', '\xa0']
+  Row 2: ['Elaboración de cacao, chocolate y productos de confitería', '1,01']
+  Row 3: ['Procesamiento y conservación de camarón', '0,92']
+  Row 4: ['Procesamiento y conservación de carne', '0,91']
+  Row 5: ['Elaboración de productos lácteos', '0,91']
+  Row 6: ['Elaboración de alimentos preparados para animales', '0,82']
+  Row 7: ['Elaboración y refinación de azúcar', '0,78']
+  Row 8: ['Cría de ganado, otros animales; productos animales; y actividades de apoyo', '0,75']
+  Row 9: ['Elaboración de aceites y grasas origen vegetal y animal', '0,72']
+  Row 10: ['Elaboración de  fideos y de otros productos farináceos', '0,67']
+  Row 11: ['Acuicultura y pesca de camarón', '0,66']
+  Row 12: ['Fabricación de muebles', '0,65']
+  Row 13: ['Elaboración de café', '0,64']
+  Row 14: ['Elaboración de productos de la panadería', '0,64']
+  Row 15: ['Fabricación de prendas de vestir', '0,59']
+  Row 16: ['Elaboración de otros productos alimenticios diversos', '0,58']
+  Row 17: ['Conservación de especies acuáticas', '0,58']
+  Row 18: ['Producción de madera y productos de madera', '0,53']
+  Row 19: ['Elaboración de productos de molinería', '0,52']
+  Row 20: ['Fabricación de cuero, productos de cuero y calzado', '0,47']
+  Row 21: ['Elaboración bebidas alcohólicas', '0,46']
+  Row 22: ['Fabricación de hilos, hilados; tejidos y confecciones', '0,45']
+  Row 23: ['Servicio de alimento y bebida', '0,42']
+  Row 24: ['Procesamiento de pescado y otros productos acuáticos elaborados', '0,42']
+  Row 25: ['Fabricación de papel y productos de papel', '0,41']
+  Row 26: ['Alta (2 DAM)', '\xa0']
+  Row 27: ['Alojamiento', '0,32']
+  Row 28: ['Elaboración de productos de tabaco', '0,27']
+  Row 29: ['Servicios sociales y de salud no de mercado (públicos)', '0,27']
+  Row 30: ['Elaboración bebidas no alcohólicas', '0,27']
+  Row 31: ['Sobre la mediana (1 DAM)', '\xa0']
+  Row 32: ['Pesca (excepto camarón)', '0,19']
+  Row 33: ['Cultivo de flores', '0,19']
+  Row 34: ['Acuicultura (excepto camarón)', '0,17']
+  Row 35: ['Cultivo de banano, café y cacao', '0,17']
+  Row 36: ['Entretenimiento, recreación y otras actividades de servicios', '0,15']
+  Row 37: ['Construcción', '0,12']
+  Row 38: ['Fabricación de otros productos químicos', '0,12']
+  Row 39: ['Mediana o abajo de la mediana', '\xa0']
+  Row 40: ['Explotación de minerales no metálicos y actividades de apoyo a las minas y canteras', '0,11']
+  Row 41: ['Cultivo oleaginosas e industriales', '0,10']
+  Row 42: ['Fabricación de productos de caucho', '0,10']
+  Row 43: ['Servicios sociales y de salud privados', '0,09']
+  Row 44: ['Cultivo de cereales', '0,08']
+  Row 45: ['Administración pública, defensa; planes de seguridad social obligatoria', '0,07']
+  Row 46: ['Fabricación de maquinaria y equipo', '0,07']
+  Row 47: ['Comunicaciones e información', '0,07']
+  Row 48: ['Cultivo de tubérculos, vegetales, melones y frutas', '0,06']
+  Row 49: ['Servicios de enseñanza privado', '0,06']
+  Row 50: ['Actividades de apoyo a la extracción de petróleo y gas natural', '0,06']
+  Row 51: ['Servicios de reparación y mantenimiento de vehículos de motor y motocicletas', '0,06']
+  Row 52: ['Fabricación de cemento, artículos de hormigón y piedra', '0,06']
+  Row 53: ['Extracción de petróleo crudo y gas natural', '0,05']
+  Row 54: ['Generación, captación y distribución de energía eléctrica', '0,05']
+  Row 55: ['Servicios de enseñanza público (no de mercado)', '0,05']
+  Row 56: ['Industrias manufactureras n.c.p.', '0,05']
+  Row 57: ['Actividades de servicios financieros', '0,05']
+  Row 58: ['Explotación de minerales metálicos', '0,05']
+  Row 59: ['Fabricación de productos derivados del metal, excepto maquinaria y equipo', '0,04']
+  Row 60: ['Comercio al por mayor y al por menor; incluido comercio de vehículos automotores y motocicletas', '0,04']
+  Row 61: ['Financiación de planes de seguro, excepto seguridad social', '0,04']
+  Row 62: ['Fabricación de metales comunes', '0,04']
+  Row 63: ['Transporte y almacenamiento', '0,04']
+  Row 64: ['Captación, depuración y distribución de agua; y saneamiento', '0,03']
+  Row 65: ['Silvicultura, extracción de madera y actividades relacionadas', '0,03']
+  Row 66: ['Actividades postales y de correo', '0,03']
+  Row 67: ['Fabricación de productos de plástico', '0,03']
+  Row 68: ['Fabricación de vidrio, productos refractarios y de cerámica', '0,03']
+  Row 69: ['Actividades inmobiliarias', '0,03']
+  Row 70: ['Actividades de apoyo a los cultivos', '0,02']
+  Row 71: ['Actividades profesionales, técnicas y administrativas', '0,02']
+  Row 72: ['Fabricación de sustancias químicas básicas, abonos y plásticos primarios', '0,02']
+  Row 73: ['Fabricación de equipo de transporte', '0,02']
+  Row 74: ['Fabricación de productos refinados de petróleo y de otros', '0,02']
+
+--- Table 14 (20 rows x 15 cols) ---
+  Row 0: ['Consumo Intermedio', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', 'Promedio']
+  Row 1: ['Bioeconomía', '21,6%', '22,2%', '23,1%', '23,1%', '23,2%', '22,6%', '22,7%', '23,1%', '23,5%', '23,9%', '23,9%', '23,0%', '23,0%', '23,0%']
+  Row 2: ['Bioeconomía extendida', '7,9%', '7,9%', '8,3%', '7,9%', '8,1%', '7,8%', '8,1%', '8,1%', '8,2%', '7,8%', '7,7%', '7,6%', '7,7%', '7,9%']
+  Row 3: ['No bioeconomía', '70,4%', '69,9%', '68,6%', '69,0%', '68,7%', '69,6%', '69,2%', '68,8%', '68,4%', '68,2%', '68,4%', '69,4%', '69,4%', '69,1%']
+  Row 4: ['Exportaciones', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', 'Promedio']
+  Row 5: ['Bioeconomía', '28,9%', '26,8%', '36,1%', '31,5%', '31,9%', '30,0%', '32,4%', '35,9%', '47,3%', '52,2%', '50,5%', '47,0%', '48,7%', '38,4%']
+  Row 6: ['Bioeconomía extendida', '1,5%', '1,5%', '2,1%', '2,4%', '1,7%', '1,4%', '1,3%', '1,2%', '1,5%', '1,7%', '1,3%', '1,4%', '1,4%', '1,6%']
+  Row 7: ['No bioeconomía', '69,6%', '71,6%', '61,8%', '66,1%', '66,4%', '68,6%', '66,3%', '62,9%', '51,1%', '46,1%', '48,1%', '51,7%', '49,9%', '60,0%']
+  Row 8: ['Importaciones', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', 'Promedio']
+  Row 9: ['Bioeconomía', '7,8%', '8,4%', '8,8%', '8,1%', '8,5%', '8,0%', '7,4%', '7,6%', '8,4%', '9,8%', '9,7%', '9,9%', '10,2%', '8,6%']
+  Row 10: ['Bioeconomía extendida', '13,0%', '12,4%', '12,4%', '11,1%', '11,1%', '11,1%', '10,9%', '11,2%', '13,3%', '13,8%', '12,9%', '12,3%', '12,2%', '12,1%']
+  Row 11: ['No bioeconomía', '79,3%', '79,2%', '78,7%', '80,8%', '80,4%', '80,9%', '81,7%', '81,2%', '78,3%', '76,5%', '77,4%', '77,8%', '77,6%', '79,2%']
+  Row 12: ['Producción', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', 'Promedio']
+  Row 13: ['Bioeconomía', '19,5%', '19,4%', '20,3%', '20,0%', '20,0%', '19,0%', '19,3%', '20,0%', '20,8%', '21,3%', '21,3%', '20,6%', '21,0%', '20,2%']
+  Row 14: ['Bioeconomía extendida', '5,6%', '5,4%', '6,4%', '6,4%', '6,5%', '7,6%', '7,6%', '7,8%', '8,2%', '9,0%', '9,3%', '9,4%', '9,5%', '7,6%']
+  Row 15: ['No bioeconomía', '74,9%', '75,1%', '73,3%', '73,6%', '73,6%', '73,5%', '73,1%', '72,2%', '70,9%', '69,8%', '69,4%', '69,9%', '69,6%', '72,2%']
+  Row 16: ['Consumo Final', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', 'Promedio']
+  Row 17: ['Bioeconomía', '26,8%', '28,3%', '29,2%', '27,9%', '27,6%', '27,2%', '27,7%', '28,2%', '28,5%', '29,4%', '29,0%', '28,0%', '28,0%', '28,1%']
+  Row 18: ['Bioeconomía extendida', '14,1%', '13,9%', '14,1%', '14,4%', '15,2%', '15,3%', '15,0%', '14,9%', '14,7%', '13,9%', '14,3%', '14,5%', '14,5%', '14,5%']
+  Row 19: ['No bioeconomía', '59,1%', '57,8%', '56,7%', '57,7%', '57,2%', '57,6%', '57,3%', '56,9%', '56,8%', '56,7%', '56,7%', '57,5%', '57,4%', '57,3%']

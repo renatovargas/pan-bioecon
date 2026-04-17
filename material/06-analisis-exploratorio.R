@@ -8,7 +8,7 @@ library(pivottabler)
 rm(list = ls())
 # Seguidamente, importamos los datos de la cuenta de Bioeconomía.
 
-load("datos/ejemplos/csb_ECU_factor.RData")
+load("data/ejemplos/csb_ECU_factor.RData")
 
 # Y probamos hacer un resumen para una actividad económica en particular.
 

@@ -6,10 +6,24 @@ project:
 website:
   title: "CB de Panamá"
   navbar:
+    pinned: true
+    search: true
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Inicio
+        href: index.qmd
+      - text: "Documentos"
+        href: documentos/cb-panama.qmd
+      - text: "Dashboard"
+        href: documentos/cb-panama.qmd
+        
+  sidebar:
+    - title: Documentos
+      contents:
+        - section: "Documentos"
+          href: documentos/cb-panama.qmd
+          contents:
+              - text: "Cuenta de Bioeconomía de Panamá"
+                href: documentos/cb-panama.qmd
 
 lang: es
 format:
