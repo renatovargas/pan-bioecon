@@ -1,0 +1,188 @@
+---
+title: "Libretos de presentaciones"
+subtitle: "Ecuador, abril 2026"
+author: "Renato Vargas"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: true
+  docx:
+    toc: true
+    reference-doc: custom-reference-doc.docx
+lang: es
+---
+
+# Libreto — Charla 1 {#libreto-charla-1}
+
+## "Midiendo lo invisible: avances y desafíos en la cuantificación de la bioeconomía en América Latina"
+
+---
+
+### Diapositiva 1 — ¿Por qué medir la bioeconomía?
+
+Buenas tardes. Muchas gracias por la invitación. Voy a hablarles de cómo llegamos a medir algo que no era evidente en las estadísticas macroeconómicas.
+
+América Latina es una potencia bioeconómica. Lo sabemos intuitivamente. La piña costarricense, la soja argentina, la madera chilena, el azúcar nicaragüense, el café colombiano. Todo eso es bioeconomía. Y sin embargo, si uno busca en las estadísticas nacionales una línea que diga "contribución de la bioeconomía al desempeño económico", no la encuentra. ¿Por qué?
+
+Porque las cuentas nacionales están organizadas por actividades económicas, no por el origen de los recursos que se usan. Entonces la bioeconomía está ahí, presente, pero mezclada con todo lo demás, invisible para las estadísticas oficiales. Y eso tiene consecuencias muy concretas: sin datos, las políticas públicas de bioeconomía se diseñan sin saber realmente de qué tamaño es aquello que se quiere promover.
+
+La buena noticia es que el Sistema de Cuentas Nacionales ya contiene toda la información que necesitamos. Lo que hay que hacer es reorganizarla. Y eso es exactamente lo que hace la Cuenta Satélite de Bioeconomía.
+
+---
+
+### Diapositiva 2 — La chispa: Costa Rica y la cooperación CEPAL–GIZ
+
+La historia comienza en Costa Rica, alrededor del año 2020. El Gobierno de ese país había aprobado su Estrategia Nacional de Bioeconomía y el Consejo Nacional de Cuentas Ambientales quería saber cuánto valía esa bioeconomía en términos macroeconómicos. En ese contexto, le pidieron ayuda a la CEPAL.
+
+Así que nos pusimos manos a la obra con el Banco Central de Costa Rica, con el apoyo financiero de la cooperación alemana a través de GIZ. Y lo que construimos fue una propuesta metodológica que tomaba los cuadros de oferta y utilización del sistema de cuentas nacionales de Costa Rica y los reorganizaba para hacer visible la contribución de los recursos biológicos a la economía.
+
+El resultado se publicó en 2022 en la serie Recursos Naturales y Desarrollo de CEPAL. Y nuestro norte fue la rigurosidad metodológica y la consistencia con el sistema de cuentas nacionales. Pero un subproducto muy importante de ese ejercicio, además del resultado para Costa Rica fue la metodología en sí. Porque nos preocupamos de manera muy deliberada en que fuera una metodología replicable. Es decir, que era importante crear una plantilla.
+
+---
+
+### Diapositiva 3 — La metodología en una imagen
+
+Permítanme explicar brevemente qué hace esta metodología, porque es importante entenderla aunque sea a grandes rasgos para poder apreciarla.
+
+Los Cuadros de Oferta y Utilización, que llamamos COU, son la columna vertebral del Sistema de Cuentas Nacionales. Son matrices enormes que muestran, producto por producto y actividad por actividad, cuánto se produce, cuánto se importa, cuánto se consume como insumo productivo y cuánto va al consumo final o a la exportación.
+
+Entonces, lo que hacemos nosotros es clasificar cada uno de esos productos y actividades en tres categorías. La primera categoría es la "bioeconomía": productos y actividades que dependen directamente de recursos biológicos, como la agricultura, la pesca, la silvicultura, la elaboración de alimentos. La segunda categoría es la "bioeconomía extendida": productos que no son primariamente biológicos pero que tienen un contenido biológico relevante o no podrían existir sin la bioeconomía directa, como textiles, papel, ciertos productos farmacéuticos. Y la tercera categoría es "no bioeconomía": todo lo demás.
+
+Una vez hecha esa clasificación, se puede calcular la contribución de cada categoría a la producción, al consumo, a las exportaciones, al valor agregado. Sin modificar ninguna regla contable, sin crear datos nuevos. Solo reorganizando lo que ya existe. Ese sistema es muy importante porque si a la producción de cada actividad económica le quitamos los insumos que necesita para producirla queda una ganancia, la cual conocemos como valor agregado y la suma de los valores agregados es el PIB. Entonces esta es la base de la medición del desempeño económico de los países.
+
+---
+
+### Diapositiva 4 — De uno a trece: escalar la metodología
+
+Con la metodología lista y documentada, la pregunta era: si se puede hacer en Costa Rica y muchos países usan el mismo Sistema de Cuentas Nacionales para medir la economía, ¿por qué no hacerlo en toda la región?
+
+La División de Estadísticas Macroeconómicas de CEPAL había construido un repositorio de Cuadros de Oferta y Utilización para varios países latinoamericanos. Eso era exactamente la materia prima que necesitábamos. Con el mismo apoyo de la cooperación alemana, aplicamos la metodología de forma sistemática para trece países.
+
+Esos países son: Argentina, Brasil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, Nicaragua, Panamá, Perú y República Dominicana. Trece países, con datos de diferentes años alrededor de 2018, con las mismas clasificaciones conceptuales aplicadas de manera consistente.
+
+El resultado fue publicado en 2023 en otra serie de CEPAL, con mis colegas Andrés Mondaini y Adrián Rodríguez como coautores. Por primera vez teníamos un cuadro comparativo de la bioeconomía latinoamericana construido sobre bases metodológicas homogéneas.
+
+---
+
+### Diapositiva 5 — ¿Qué encontramos? La bioeconomía en números regionales
+
+Los resultados son notables. En promedio para los trece países, los productos bioeconómicos representan el 17,2 por ciento de la producción nacional. Además, representan el 28,6 por ciento de las exportaciones.
+
+Eso es en sí mismo un mensaje de política pública muy poderoso. La bioeconomía latinoamericana no es proporcionalmente grande en términos de producción, pero tiene un peso exportador desproporcionadamente alto. Somos exportadores intensivos en bioeconomía.
+
+También encontramos que los productos bioeconómicos representan el 24,9 por ciento del consumo final de los hogares y el 18,6 por ciento del consumo intermedio de la economía. Y algo que sorprende a muchos: los impuestos sobre los productos bioeconómicos representan el 24,5 por ciento del total de impuestos a los productos, lo que implica que en muchos países la bioeconomía está siendo gravada más intensamente que el promedio. Eso merece una discusión de política fiscal que está pendiente en la región.
+
+---
+
+### Diapositiva 6 — La diversidad detrás del promedio
+
+Cuando miramos los resultados país por país, la diversidad es tan reveladora como el promedio regional. Hay países donde la bioeconomía representa más del 30 por ciento de la producción nacional, y hay países donde está por debajo del 15 por ciento. Eso refleja diferencias reales en la estructura productiva.
+
+Guatemala, Honduras y Nicaragua tienen perfiles muy marcados hacia la bioeconomía primaria. Brasil y Argentina tienen estructuras más diversificadas donde la bioeconomía tiene un peso relativamente menor pero absolutamente enorme. Chile tiene una bioeconomía muy orientada hacia el sector forestal y acuícola.
+
+Lo interesante es que todos estos países pueden ahora verse en el mismo espejo metodológico. Tenemos una base de comparación.
+
+---
+
+### Diapositiva 7 — El caso ilustrado: Ecuador 2007–2019
+
+El caso más reciente y quizás el más rico metodológicamente es el de Ecuador, que ustedes van a ver presentado en estos días y el cual tuve el honor de acompañar en términos de formación de capacidades, tanto en metodología como en el manejo de información macroeconómica.
+
+Ecuador tiene algo muy valioso para demostrar la potencia de la metodología: y es que dispone de una matriz de insumo-producto publicada por el Banco Central.
+
+Los resultados para Ecuador son impactantes. Van a ver el peso de la bioeconomía en el  consumo intermedio de toda la economía ecuatoriana. Van a ver el peso que ha cobrado la bioeconomía en las exportaciones. Pero le dejo los números exactos a Juanita.
+
+---
+
+### Diapositiva 8 — Más allá del sector primario: los multiplicadores
+
+Cuando presentamos los primeros resultados en diferentes foros; sobre todo en un foro guiado por el Instituto Humboldt en Colombia en que tuve el gusto de conocer a Paola Acevedo (quien también va a presentar aquí), surgió una crítica legítima. Alguien decía: "Bien, pero eso solo cuenta más o menos los sectores primarios. ¿Qué pasa con la industria que procesa esos productos? ¿Qué pasa con los servicios que dependen de la bioeconomía pero no son directamente bioeconómicos?"
+
+Era una buena pregunta. Irónicamente fue porque después surgió el proyecto con Ecuador en donde la matriz de insumo-producto nos permitió responderla.
+
+Calculamos multiplicadores de uso de insumos bioeconómicos para cada actividad económica. Esos multiplicadores, sin entrar en detalles metodológicos, capturan no solo el uso directo de recursos biológicos, sino también el uso indirecto a través de las cadenas de valor. Y lo que encontramos fue sorprendente: la fabricación de muebles resulta ser una de las actividades más dependientes de la bioeconomía, la construcción, junto con la fabricación de prendas de vestir, la elaboración de papel, los restaurantes y hasta el alojamiento turístico.
+
+Esto amplía radicalmente el alcance de la política pública de bioeconomía. No es solo política agraria o pesquera; es también política manufacturera y turística, es política del sector bioquímico y es política de innovación.
+
+---
+
+### Diapositiva 9 — El empleo: otra dimensión visible
+
+También desde un principio con Costa Rica, nosotros usamos la matriz de insumo producto para extraer valor del ejercicio. La bioeconomía no solo genera valor económico, también genera empleo, y en proporciones que superan a su participación en el valor agregado.
+
+Ya podrán ustedes ver las cifras de empleo de la bioeconomía en Costa Rica con la presentación de Silvia o en Ecuador con Juanita.
+
+Lo que es claro es que la bioeconomía es intensiva en trabajo. Emplea a muchas personas por cada dólar de valor que genera. Eso no es necesariamente malo; significa que tiene un gran potencial de inclusión social. Pero también significa que hay espacio para mejorar la productividad del sector, y que las políticas de formación y tecnología para los trabajadores bioeconómicos son cruciales, no marginales.
+
+---
+
+### Diapositiva 10 — Lecciones del proceso: lo que funcionó
+
+Quiero tomar un momento para reflexionar sobre lo que aprendimos del proceso mismo, más allá de los resultados.
+
+La primera lección es que la metodología es genuinamente replicable. No hay ningún secreto mágico. Si un país tiene sus COU y un equipo técnico con conocimientos básicos de cuentas nacionales, puede hacer su propia CSB siguiendo el procedimiento documentado.
+
+La segunda lección es que los datos ya existen. No fue necesario diseñar encuestas nuevas, crear registros administrativos especiales ni invertir en grandes operaciones estadísticas. Todo estaba en los COU. Lo que faltaba era usar las herramientas mismas que nos da el SCN con un poco de creatividad para extraer la respuesta correcta a nuestra pregunta.
+
+La tercera lección es que la cooperación regional multiplica los esfuerzos. El repositorio de COU de CEPAL fue la palanca que nos permitió pasar de un país a trece en un tiempo razonable.
+
+Y la cuarta lección, quizás la más importante para la sostenibilidad a largo plazo, es que la capacitación es indispensable. Después del ejercicio de Costa Rica, capacitamos al equipo del Banco Central para que pudieran internalizar las cuentas. Henry Vargas fue una pieza clave. La transferencia de capacidades solo fructifica en un suelo fértil de voluntad política.
+
+---
+
+### Diapositiva 11 — Lecciones del proceso: lo que fue difícil
+
+La honestidad exige también hablar de lo que fue difícil. Y hay varias cosas.
+
+La primera es la heterogeneidad de las nomenclaturas nacionales. Los países adaptan las clasificaciones internacionales a su realidad, lo cual es perfectamente razonable, pero crea fricciones de comparabilidad. Cuando un grupo de productos en la nomenclatura ecuatoriana o guatemalteca mezcla bienes bioeconómicos y no bioeconómicos sin poder separarlos, hay que tomar decisiones de clasificación que introducen cierta subjetividad.
+
+La segunda dificultad es la disponibilidad desigual de datos complementarios. El empleo, la energía, los flujos físicos de biomasa: no todos los países los tienen en sus COU o en publicaciones accesibles y consistentes.
+
+La tercera es el reto que conlleva convertir la cuenta de bioeconomía en una estadística oficial regular con presupuesto propio y equipo dedicado. Esa es la tarea pendiente más importante en muchos de los países del ejercicio.
+
+---
+
+### Diapositiva 12 — ¿Dónde estamos hoy? El mapa regional
+
+¿En dónde estamos hoy?
+
+Costa Rica tiene la CSB institucionalizada en el Banco Central, con capacidades propias para actualizarla.
+
+Ecuador tiene ahora una CSB publicada con innovación metodológica, y el Banco Central tiene el conocimiento para continuarla.
+
+Colombia tiene un caso interesante y diferente: el DANE ha construido una Cuenta de Bioeconomía con un enfoque específicamente orientado a la bioeconomía sostenible y a las aplicaciones priorizadas por la política pública de ciencia y tecnología. Es una definición más restringida que la nuestra, pero con una dimensión de sostenibilidad más explícita.
+
+Panamá, ahora empieza a incursionar en el tema y vamos a aprender más al respecto de parte de nuestro amigo Ediner.
+
+El resto de los trece países tienen los ejercicios piloto publicados y disponibles pero hechos por nosotros en CEPAL. Están esperando el siguiente paso: que sus institutos de estadística o bancos centrales los tomen como propios.
+
+---
+
+### Diapositiva 13 — Los desafíos que siguen abiertos
+
+Cuatro desafíos grandes siguen abiertos.
+
+El primero es el rezago estadístico. Los COU se publican con dos o tres años de retraso en la mayoría de los países. La CSB hereda ese rezago. Si queremos que sea un instrumento de política pública ágil, necesitamos hacer un poco más expedito el proceso de publicación de las estadísticas de desempeño económico. Por supuesto, esto se dice fácil, pero la realidad es diferente.
+
+El segundo es la institucionalización. De ejercicio académico a estadística oficial regular hay un camino largo que requiere presupuesto, voluntad política y reconocimiento legal.
+
+El tercero es la incorporación de datos físicos. Hasta ahora nuestra CSB es monetaria: mide en dólares o en moneda local. Pero la bioeconomía también se puede medir en toneladas de biomasa, en litros de agua, en hectáreas. Añadir esa dimensión física, que es algo en que el DANE de Colombia está incursionando con su MIP extendida ambientalmente, enriquecería enormemente el análisis.
+
+Y el cuarto desafío es el más profundo: la sostenibilidad. La CSB mide la bioeconomía, pero no dice si es sostenible.
+
+---
+
+### Diapositiva 14 — Mirando adelante: la agenda regional
+
+La agenda para el futuro es ambiciosa pero necesaria.
+
+Necesitamos armonizar las CSB para que sean genuinamente comparables, y eso requiere acuerdos sobre qué se mide y cómo. Que es el tema central de lo que les platicaré mañana.
+
+Hay una inquietud de integrar la dimensión de sostenibilidad: ¿cuánto de la bioeconomía que medimos es realmente sostenible? ¿Estamos extrayendo más de lo que la naturaleza puede regenerar?
+
+Necesitamos conectar las CSB con el SEEA y con los Objetivos de Desarrollo Sostenible, para que sean instrumentos de seguimiento de compromisos internacionales.
+
+Y necesitamos fortalecer las capacidades de los países para que puedan mantener sus propias cuentas actualizadas sin depender permanentemente de cooperación técnica externa.
+
+Termino con este pensamiento: la bioeconomía latinoamericana existe. Es grande, es importante, es estratégica. Ahora necesitamos medirla mejor y hacerlo juntos. Muchas gracias.

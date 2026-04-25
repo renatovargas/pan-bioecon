@@ -1,0 +1,247 @@
+---
+title: "Midiendo lo invisible: avances y desafíos en la cuantificación de la bioeconomía en América Latina"
+author: "Renato Vargas"
+date: "2026-04-22"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: slide
+    footer: "Midiendo lo invisible · Renato Vargas · CEPAL"
+  pptx: default
+lang: es
+engine: markdown
+---
+
+## ¿Por qué medir la bioeconomía?
+
+- La bioeconomía mueve recursos, genera empleo y define el perfil exportador de América Latina —pero no aparece en los titulares del PIB
+- Sin datos comparables, las políticas públicas se diseñan a ciegas
+- El Sistema de Cuentas Nacionales ya contiene la información: hay que reorganizarla
+- La Cuenta Satélite de Bioeconomía (CSB) es la llave que abre ese candado
+
+::: {.notes}
+Slide de apertura: plantear la paradoja central. La bioeconomía es enorme pero estadísticamente invisible.
+:::
+
+---
+
+## La chispa: Costa Rica y la cooperación CEPAL–GIZ
+
+- 2020–2022: primer ejercicio piloto en el mundo con enfoque de cuentas nacionales para bioeconomía, en coordinación con el Banco Central de Costa Rica
+- Respuesta a la Estrategia Nacional de Bioeconomía 2020–2030 de Costa Rica
+- Apoyo financiero: Alianza Estratégica CEPAL–BMZ/GIZ
+- Resultado: metodología replicable, publicada en 2022
+
+> *"Lo que se construyó en Costa Rica sirvió de molde para toda la región."*
+
+[considerar incluir: Diagrama 1 "Elementos de la bioeconomía" de S2201100_es.pdf, que muestra los componentes de recursos biológicos considerados]
+
+::: {.notes}
+Contar la historia de origen. Costa Rica fue el laboratorio. GIZ y CEPAL financiaron. El resultado fue una metodología que se podía escalar.
+:::
+
+---
+
+## La metodología en una imagen
+
+- Punto de partida: los Cuadros de Oferta y Utilización (COU) del SCN —la "espina dorsal" de las cuentas nacionales
+- Clasificación de productos y actividades en tres categorías:
+  - **Bioeconomía** (uso directo de recursos biológicos)
+  - **Bioeconomía extendida** (uso indirecto relevante: textiles, papel, farmacéuticos...)
+  - **No bioeconomía**
+- El ajuste por consumo intermedio evita la sobre y subestimación
+
+[considerar incluir: Cuadro 2 y Cuadro 3 "Estructura conceptual de cuadros de oferta y utilización bioeconómica" de S2300940_es.pdf, que ilustran la arquitectura de los cuadros]
+
+::: {.notes}
+Explicar la lógica sin tecnicismos excesivos. La clave es que no se crea información nueva: se reorganiza la que ya existe.
+:::
+
+---
+
+## De uno a trece: escalar la metodología
+
+- El repositorio de COU de la División de Estadísticas Macroeconómicas de CEPAL fue la palanca
+- 13 países con datos disponibles: Argentina, Brasil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, Nicaragua, Panamá, Perú y República Dominicana
+- Mismo procesamiento, clasificaciones comparables, publicación CEPAL 2023
+
+[considerar incluir: Cuadro 1 "América Latina y el Caribe (13 países): disponibilidad de datos de oferta y utilización, por país" de S2300940_es.pdf, que muestra la cobertura temporal por país]
+
+::: {.notes}
+Este es el salto de escala. Pasar de uno a trece países en relativamente poco tiempo fue posible porque la metodología era sistemática y estaba documentada.
+:::
+
+---
+
+## ¿Qué encontramos? La bioeconomía en números regionales
+
+En promedio para los 13 países (circa 2018):
+
+| Agregado | Participación bioeconomía |
+|---|---|
+| Producción nacional | 17,2 % |
+| Importaciones | 12,5 % |
+| Impuestos sobre productos | 24,5 % |
+| Consumo intermedio | 18,6 % |
+| **Exportaciones** | **28,6 %** |
+| Consumo final hogares | 24,9 % |
+| Formación bruta de capital | 3,7 % |
+
+> La bioeconomía tiene un peso exportador desproporcionadamente alto respecto a su tamaño productivo
+
+::: {.notes}
+Aquí entra el dato estrella: la bioeconomía representa casi 29 % de las exportaciones regionales, pero solo 17 % de la producción. Eso define el perfil de inserción internacional de la región.
+:::
+
+---
+
+## La diversidad detrás del promedio
+
+- Las diferencias entre países son tan reveladoras como el promedio regional
+- Países con alta especialización primaria (Guatemala, Honduras, Nicaragua) vs. países con mayor diversificación (Brasil, Argentina, Chile)
+- La tasa impositiva implícita sobre productos bioeconómicos es más alta que sobre los no bioeconómicos en casi todos los países
+
+[considerar incluir: Gráfico 1 "América Latina y el Caribe (13 países): porcentaje de la bioeconomía en transacciones de la oferta, por países, 2018" de S2300940_es.pdf, que muestra la heterogeneidad entre países]
+
+[considerar incluir: Gráfico 2 "América Latina y el Caribe (13 países): tasas impositivas implícitas, por países, 2018" de S2300940_es.pdf, que ilustra la carga fiscal diferencial]
+
+::: {.notes}
+La diversidad interna es una historia en sí misma. No todos los países tienen la misma relación con la bioeconomía ni la misma política fiscal hacia ella.
+:::
+
+---
+
+## El caso ilustrado: Ecuador 2007–2019
+
+- Implementación más reciente con innovación metodológica: análisis de insumo-producto para dependencia directa **e indirecta** de la bioeconomía
+- Recursos biológicos representan entre 21,7 % y 24,0 % del consumo intermedio anualmente
+- Las exportaciones bioeconómicas crecieron de 28,9 % en 2007 a **48,7 % en 2019**
+- El valor agregado bioeconómico: 15,2 % (método ajustado por consumo intermedio)
+
+[considerar incluir: Figura 4 "Participación porcentual de la bioeconomía en la producción y el consumo intermedio (2007-2019)" de 20250215_CSB_Ecuador.pdf, paneles a. y b.]
+
+[considerar incluir: Figura 5 "Participación porcentual de la bioeconomía en las importaciones y exportaciones (2007-2019)" de 20250215_CSB_Ecuador.pdf, panel b. —el alza exportadora es la imagen más impactante]
+
+::: {.notes}
+Ecuador es el caso más reciente y el más rico metodológicamente porque usa la matriz insumo-producto para ir más allá del sector primario.
+:::
+
+---
+
+## Más allá del sector primario: los multiplicadores
+
+- Pregunta incómoda que surgió en foros: *"¿Y la manufactura que depende de la bioeconomía pero no es primaria?"*
+- Solución: multiplicadores de demanda bioeconómica con la matriz insumo-producto
+- Sectores inesperadamente dependientes (3 desviaciones absolutas medianas sobre la mediana):
+  - Fabricación de muebles, prendas de vestir, papel
+  - Servicio de alimentos y bebidas, alojamiento
+
+[considerar incluir: Figura 3 "Multiplicadores de bioeconomía total ordenados según Desviación Mediana Absoluta" de 20250215_CSB_Ecuador.pdf, que muestra qué sectores son más interdependientes con la bioeconomía]
+
+::: {.notes}
+Esta innovación responde una crítica legítima. La bioeconomía no vive solo en el campo. La manufactura y los servicios también dependen de ella indirectamente.
+:::
+
+---
+
+## El empleo: otra dimensión visible
+
+- Los COU incluyen datos de empleo equivalente a tiempo completo por sector
+- Bioeconomía directa: 27,1 % del empleo en Ecuador
+- Bioeconomía extendida: 14,6 % adicional
+- En la región: el empleo bioeconómico supera consistentemente la participación en valor agregado → menor productividad relativa, pero mayor inclusión
+
+[considerar incluir: Cuadro 6 "Valor Agregado Bruto y PIB por el lado de la producción, método de actividades económicas (año 2019, millones de dólares)" de 20250215_CSB_Ecuador.pdf, que incluye datos de empleo por categoría bioeconómica]
+
+::: {.notes}
+El empleo es una dimensión que los tomadores de decisiones entienden muy bien. Que la bioeconomía emplee más de lo que produce en valor no es necesariamente malo: es el perfil de una región que todavía tiene espacio para aumentar productividad.
+:::
+
+---
+
+## Lecciones del proceso: lo que funcionó
+
+- **La metodología es replicable**: una sola clasificación internacional (CIIU/CPC) adaptable a nomenclaturas locales
+- **Los datos ya existen**: no hay que construir nuevas encuestas; hay que reorganizar lo que hay
+- **La coordinación regional paga**: un repositorio CEPAL + metodología común = 13 países a la vez
+- **La capacitación es clave**: el Banco Central de Costa Rica hoy puede actualizar su CSB de forma autónoma
+
+::: {.notes}
+Estas son las lecciones institucionales. Lo que permite escalar no es solo la metodología, sino el modelo de cooperación.
+:::
+
+---
+
+## Lecciones del proceso: lo que fue difícil
+
+- Las nomenclaturas nacionales de productos no son tan detalladas como la CPC internacional → clasificaciones "mixtas" que requieren juicio técnico
+- La heterogeneidad en la granularidad de los COU entre países limita la comparabilidad estricta
+- Los datos de empleo y energía no siempre están disponibles con el mismo nivel de detalle
+- La voluntad política para institucionalizar la CSB no siempre acompaña el entusiasmo inicial
+
+::: {.notes}
+Honestidad sobre los desafíos. Esto es lo que hace que la presentación sea creíble para un público experto.
+:::
+
+---
+
+## ¿Dónde estamos hoy? El mapa regional
+
+- Costa Rica: CSB institucionalizada en el Banco Central, actualizaciones regulares
+- Ecuador: CSB publicada en 2025 con innovación metodológica (insumo-producto)
+- Colombia: Cuenta de Bioeconomía del DANE con enfoque complementario (bioeconomía sostenible)
+- Resto de los 13 países: ejercicios piloto publicados, pendientes de institucionalización
+- Nuevos países interesados: Bolivia, México, entre otros
+
+[considerar incluir: cualquier mapa o tabla resumen de cobertura regional de las presentaciones en materiales/Renato_Vargas-Bioeconomia_PANAMA.pptx o materiales/20241118_Bioeconomia_Ecuador.pptx que muestre el estado actual de implementación por país]
+
+::: {.notes}
+Dar un panorama honesto del estado actual. Hay avances reales pero también una brecha entre los ejercicios piloto y la institucionalización.
+:::
+
+---
+
+## Los desafíos que siguen abiertos
+
+- **Actualización**: los COU tienen rezago de 2 a 3 años en muchos países; la CSB hereda ese rezago
+- **Institucionalización**: de ejercicio académico a estadística oficial regular requiere presupuesto y voluntad política
+- **Datos físicos**: la CSB actual es monetaria; añadir flujos físicos (toneladas de biomasa, uso de agua) es el siguiente paso
+- **Sostenibilidad**: la cuenta mide la bioeconomía, pero no si es sostenible —ese es un desafío metodológico de primera magnitud
+
+::: {.notes}
+Presentar los desafíos como agenda, no como fracasos. Esto abre la puerta a la segunda charla sobre comparabilidad y sostenibilidad.
+:::
+
+---
+
+## Mirando adelante: la agenda regional
+
+- Armonizar las CSB para que sean genuinamente comparables (tema de mañana)
+- Integrar la dimensión de sostenibilidad: ¿cuánto de la bioeconomía que medimos es realmente sostenible?
+- Conectar con el SEEA y con los ODS: la CSB como instrumento de seguimiento de compromisos internacionales
+- Fortalecer capacidades nacionales para que los países actualicen sus propias cuentas
+
+> *La bioeconomía latinoamericana existe. Ahora necesitamos medirla mejor y hacerlo juntos.*
+
+::: {.notes}
+Cierre optimista pero con agenda concreta. La segunda charla profundizará en la comparabilidad y la sostenibilidad.
+:::
+
+---
+
+## Gracias
+
+**Renato Vargas**  
+Consultor, División de Recursos Naturales  
+Comisión Económica para América Latina y el Caribe (CEPAL)
+
+Publicaciones de referencia:
+
+- Vargas et al. (2022). *Cuenta satélite de bioeconomía para Costa Rica.* CEPAL, Serie RND N° 214.
+- Vargas, Mondaini & Rodríguez (2023). *Cuentas satélite de bioeconomía para 13 países de ALC.* CEPAL, Serie RND N° 219.
+- Vargas (2025). *Implementación de una metodología de construcción de cuentas satélite de bioeconomía con el SCN de Ecuador.* CEPAL.
+
+::: {.notes}
+Diapositiva de cierre. Dar las referencias completas para quien quiera profundizar.
+:::

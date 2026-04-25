@@ -1,0 +1,226 @@
+---
+title: "Libretos de presentaciones"
+subtitle: "Ecuador, abril 2026"
+author: "Renato Vargas"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: true
+  docx:
+    toc: true
+    reference-doc: custom-reference-doc.docx
+lang: es
+---
+
+# Libreto — Charla 2 {#libreto-charla-2}
+
+## "Hacia la comparabilidad internacional: estándares y desafíos en la medición"
+
+---
+
+### Diapositiva 1 — El problema de fondo: ¿estamos midiendo lo mismo?
+
+Buenos días. Gracias por estar aquí en esta segunda sesión. Ayer hablamos de lo que hemos construido en la región: una metodología, trece países, resultados concretos. Hoy quiero ir un nivel más arriba y preguntarnos algo más incómodo: ¿esos números que calculamos para los trece países de América Latina son comparables entre sí? ¿Son comparables con lo que miden en Europa o en Estados Unidos? ¿Y podemos añadir a esa medición alguna dimensión de sostenibilidad?
+
+Esas tres preguntas son las que organizan esta presentación. Y hay una cuarta, que atraviesa a todas: ¿estamos partiendo de la misma definición de bioeconomía? Porque si la respuesta es no, todo lo demás se complica.
+
+Empecemos por ahí. El problema de la comparabilidad es un problema real y tiene consecuencias prácticas. Si yo les digo que en Ecuador la bioeconomía representa el 23 por ciento de la producción, y en Europa representó el 11 por ciento del PIB en 2015, y Colombia reporta alrededor del 0,14 por ciento, ¿esos números son comparables? La respuesta honesta es: no directamente. Porque están calculados con metodologías diferentes, con definiciones diferentes, con clasificaciones diferentes.
+
+Y eso importa, porque si los números no son comparables, los países no pueden aprender unos de otros, no pueden hacer benchmarking, no pueden formular compromisos internacionales con base estadística sólida. Si cada quien mide algo diferente, nadie mide nada útil para la comparación.
+
+---
+
+### Diapositiva 2 — ¿Qué se está midiendo en el mundo?
+
+Hay básicamente tres grandes enfoques de medición de bioeconomía en el mundo.
+
+El primero es el enfoque de tablas insumo-producto, desarrollado principalmente por el Joint Research Centre de la Comisión Europea. Estiman qué proporción de cada producto tiene origen biológico y usan esas proporciones para calcular el tamaño de la bioeconomía. Para la Unión Europea llegaron a una cifra de alrededor del 11 por ciento del PIB en 2015.
+
+El segundo es el enfoque de proporciones de productos biológicos, que consulta a expertos sectoriales sobre qué fracción de cada producto es de base biológica. Es más flexible pero también más subjetivo. Los mismos investigadores han documentado que en Finlandia dos estudios con este enfoque llegaron a estimaciones que diferían hasta en 15 puntos porcentuales para el mismo sector.
+
+El tercero es el enfoque de cuentas satélite, que es el que hemos desarrollado en CEPAL. Partimos del Sistema de Cuentas Nacionales, usamos las clasificaciones internacionales estándar, y reorganizamos la información existente. La ventaja principal es que el resultado es consistente con el mismo sistema contable que usa el país para calcular su PIB. No estamos inventando una estadística paralela; estamos extendiendo el sistema existente.
+
+---
+
+### Diapositiva 3 — El ancla común: el Sistema de Cuentas Nacionales
+
+La ventaja fundamental del enfoque de cuentas satélite es que el Sistema de Cuentas Nacionales es un estándar internacional que todos los países del mundo adoptan. Hay variantes y adaptaciones, por supuesto, pero la arquitectura básica es la misma: los cuadros de oferta y utilización, las clasificaciones CIIU y CPC, las definiciones de valor agregado, consumo intermedio, exportaciones.
+
+Eso significa que si construimos la CSB como una extensión del SCN, tenemos automáticamente un lenguaje común con todos los países que también usen el SCN como base. Y ese es prácticamente todo el mundo.
+
+La pregunta entonces no es si el SCN puede servir de ancla para la comparabilidad. Sí puede. La pregunta es cuántos grados de libertad quedan después de ese ancla, y cómo los estamos usando de manera compatible entre países.
+
+---
+
+### Diapositiva 4 — Una misma definición, dos lecturas distintas: CEPAL y DANE
+
+Voy a detenerme en un momento en algo que me parece crucial y que normalmente no se discute con suficiente franqueza en los foros técnicos: CEPAL y el DANE de Colombia parten prácticamente de la misma definición de bioeconomía, pero llegaron a cuentas muy diferentes. ¿Por qué?
+
+La definición de CEPAL, adoptada de las Cumbres Mundiales de Bioeconomía, dice que la bioeconomía es "la producción, utilización, conservación y regeneración de recursos biológicos, incluyendo los conocimientos, la ciencia, la tecnología y la innovación relacionados con dichos recursos, para proporcionar información, productos, procesos y servicios a todos los sectores económicos, con el propósito de avanzar hacia una economía sostenible."
+
+La definición del DANE dice que es el "conjunto de actividades económicas que producen bienes y servicios que provienen de material biológico de manera parcial o completa, incluyendo la investigación, el conocimiento y la innovación."
+
+Las dos dicen "incluyendo conocimiento e innovación." Pero hay una diferencia de interpretación lógica fundamental.
+
+Nosotros en CEPAL tomamos ese "incluyendo" como una condición suficiente: si produces recursos biológicos, eres bioeconomía; y si generas conocimiento relacionado con recursos biológicos, también eres bioeconomía. Es un OR lógico. Eso da una bioeconomía amplia, que captura toda la base productiva biológica de un país.
+
+El DANE tomó ese "incluyendo" como una condición necesaria: para ser bioeconomía en sentido estricto tienes que producir desde material biológico Y además ese proceso tiene que involucrar conocimiento, innovación, sostenibilidad. Es un AND lógico. Eso da una bioeconomía más pequeña pero más selectiva: la bioeconomía de frontera, la que avanza hacia modelos productivos más sofisticados y sostenibles.
+
+Ninguna de las dos lecturas es incorrecta. Son respuestas a preguntas diferentes. CEPAL pregunta: ¿cuánto de la economía latinoamericana depende de recursos biológicos? El DANE pregunta: ¿cuánto de la economía colombiana ya está haciendo bioeconomía sostenible e innovadora, en el sentido de la agenda de transformación productiva?
+
+La consecuencia es que los números son radicalmente distintos: en el enfoque CEPAL la bioeconomía representa entre 15 y 23 por ciento del valor agregado de los países latinoamericanos; en el enfoque del DANE representa alrededor del 0,14 por ciento del valor agregado colombiano. Ambas cifras son correctas para lo que cada una pretende medir.
+
+Y la solución que propongo no es que uno de los dos cambie su metodología. La solución es que el enfoque de CEPAL incorpore una capa adicional de análisis: de ese 15 a 23 por ciento que ya medimos, ¿qué parte corresponde a bioeconomía sostenible? ¿Qué parte involucra innovación tecnológica? ¿Qué parte está siendo regenerada versus extraída de manera no sostenible? En otras palabras, no se trata de revisar el número, sino de hilar más fino dentro de él. El trabajo del DANE ofrece exactamente el tipo de desagregación que podríamos añadir como capa analítica complementaria a nuestra CSB.
+
+---
+
+### Diapositiva 5 — Los bloques de comparabilidad: lo que es igual en los 13 países
+
+Permítanme ser muy concreto sobre qué es comparable y qué no entre los trece países que hemos estudiado.
+
+Lo que es igual en todos los países es lo siguiente: la definición de bioeconomía, adoptada de las Cumbres Mundiales de Bioeconomía de 2018 y 2020. La lista de siete tipos de recursos biológicos que conforman la bioeconomía. La arquitectura de los cuadros de oferta y utilización bioeconómica, con las mismas columnas y filas conceptuales. Y los indicadores clave que calculamos para todos: participación en producción, importaciones, exportaciones, consumo intermedio, consumo final y formación bruta de capital.
+
+Eso es lo que nos permite decir que en promedio la bioeconomía representa el 28,6 por ciento de las exportaciones latinoamericanas. Eso sí tiene sentido compararlo entre países, con las precauciones del caso.
+
+---
+
+### Diapositiva 6 — Los bloques de no comparabilidad: lo que varía y por qué
+
+Ahora lo que no es directamente comparable.
+
+El primer factor es la granularidad de los cuadros de oferta y utilización nacionales. Algunos países tienen 30 grupos de productos; otros tienen más de 300. Cuando la granularidad es baja, necesariamente hay más grupos de productos que mezclan bioeconómicos y no bioeconómicos. Eso introduce imprecisión.
+
+El segundo factor es el año de referencia. Los datos de los trece países van desde 2016 hasta 2019. No es dramático para comparaciones estructurales, pero sí importa cuando los precios de las materias primas cambian mucho de un año a otro.
+
+El tercer factor es la cobertura de datos complementarios. No todos los países tienen datos de empleo o de uso energético en sus COU, lo que limita los análisis más allá del valor monetario.
+
+Y el cuarto factor, que es quizás el más sutil, es el método de estimación del valor agregado bioeconómico. Hay dos métodos posibles: el que parte de las actividades económicas y el que ajusta por consumo intermedio de productos bioeconómicos. Los resultados pueden diferir en varios puntos porcentuales. Si los países usan métodos diferentes y no lo dicen, la comparación es inválida.
+
+---
+
+### Diapositiva 7 — El resultado: ¿cuánto podemos comparar hoy?
+
+Entonces, ¿cuánto podemos comparar en la práctica?
+
+Podemos comparar los órdenes de magnitud. Si en Ecuador la bioeconomía representa alrededor del 23 por ciento de la producción y en El Salvador está alrededor del 18 por ciento, esa diferencia es real y refleja diferencias estructurales verdaderas.
+
+Podemos comparar las tendencias cualitativas. En todos los países la bioeconomía tiene mayor peso en exportaciones que en producción. Eso es una regularidad estructural real, no un artefacto estadístico.
+
+Podemos hacer rankings relativos indicativos. ¿Qué países son más bioeconómicos que otros en la región? Esa pregunta tiene respuesta, con las precauciones del caso.
+
+Lo que no podemos hacer con estos datos es comparar décimas de punto porcentual como si fueran medidas físicas de precisión. La diferencia entre 17,1 y 17,8 por ciento puede perfectamente ser un artefacto de la granularidad de los COU, no una diferencia real.
+
+---
+
+### Diapositiva 8 — La frontera de producción: un desafío definitorio
+
+Uno de los debates más profundos en la medición de la bioeconomía es el de la frontera: ¿qué se incluye y qué no?
+
+¿Se incluye la biotecnología como parte de la bioeconomía, aunque no use directamente biomasa en su proceso productivo? ¿Los biocombustibles son bioeconomía si para producirlos se destinan tierras que antes eran para cultivos alimentarios? ¿Los servicios ecosistémicos, como la polinización o la regulación hídrica, forman parte de la bioeconomía aunque no pasen por el mercado?
+
+La definición que adoptamos de las Cumbres Mundiales dice que la bioeconomía incluye "conocimiento, ciencia, tecnología e innovación relacionados con los recursos biológicos". Eso abre la puerta a incluir sectores de I+D biotecnológico que no producen directamente biomasa.
+
+Y aquí está el caso más interesante y reciente: Colombia. El DANE decidió construir su Cuenta de Bioeconomía con un enfoque diferente al nuestro, más restringido pero con una dimensión de sostenibilidad más explícita. Eligieron ocho aplicaciones prioritarias vinculadas a la biodiversidad sostenible. Es una CSB diferente a la de CEPAL, pero es igualmente legítima porque responde a una pregunta diferente: no "¿cuánto vale la bioeconomía en sentido amplio?" sino "¿cuánto vale la bioeconomía orientada a la sostenibilidad según nuestra política pública?"
+
+---
+
+### Diapositiva 9 — El caso colombiano: un modelo para la región
+
+Colombia eligió medir las actividades económicas asociadas a ocho aplicaciones priorizadas por la Misión de Bioeconomía y Territorio de MINCIENCIAS: bioinsumos agropecuarios, biorremediación, alimentos y bebidas funcionales, fitomedicamentos, biopolímeros, biorrefinerías, cosmecéutica natural y turismo de naturaleza. Esa es la bioeconomía de innovación, la que transforma el recurso biológico en valor de alta complejidad.
+
+El resultado es que la participación del valor agregado bioeconómico en el PIB colombiano según este enfoque es del orden del 0,14 por ciento. La cifra es pequeña pero no es decepcionante; es reveladora. Dice que esa fracción innovadora, de frontera, todavía es pequeña. Ahí está la agenda de política pública: cómo crecer en ese espacio.
+
+Y lo que hace el trabajo del DANE todavía más valioso es lo que viene después del número: los indicadores asociados. El gasto del gobierno en actividades ambientales vinculadas a bioeconomía. El número de investigadores trabajando en el área. Las alianzas científico-tecnológicas. Los indicadores del Instituto Humboldt sobre biodiversidad. Los indicadores del SINCHI para la Amazonía. 
+
+Lo que me gustaría proponer, y espero que podamos seguir conversando sobre esto más allá de este evento, es que la región explore una arquitectura en dos capas: la CSB de CEPAL como base macroeconómica amplia, que mide la bioeconomía en el sentido productivo general; y encima de esa base, indicadores al estilo del DANE que desagregan cuánto de esa bioeconomía es de frontera, cuánto es sostenible, cuánto está siendo impulsada por ciencia e innovación. Las dos capas son necesarias: la primera dice de dónde venimos, la segunda dice hacia dónde vamos.
+
+---
+
+### Diapositiva 10 — Factibilidad de reforzar la sostenibilidad en las CSB
+
+Ahora quiero abordar directamente la pregunta que me plantearon para esta charla: ¿es factible reforzar la variable sostenibilidad en las Cuentas Satélite de Bioeconomía?
+
+La respuesta corta es sí, es factible. Pero hay que ser claro sobre qué puede hacer la CSB sola y qué requiere integración con otros sistemas estadísticos.
+
+La CSB en su formato actual ya permite algunas señales de sostenibilidad. La tasa de uso bioeconómico por unidad de valor agregado es un indicador de eficiencia: ¿cuántos recursos biológicos necesita la economía para generar un dólar de valor? Si esa tasa sube en el tiempo, podría indicar una menor eficiencia o una mayor presión sobre los ecosistemas. La participación bioeconómica en las exportaciones netas indica si el país es exportador neto de bioeconomía, lo que puede ser señal de presión sobre sus recursos naturales. Y la tasa impositiva implícita sobre productos bioeconómicos indica si la política fiscal incentiva o desincentiva el uso sostenible.
+
+Pero para ir más allá, necesitamos integrar la CSB con el Sistema de Contabilidad Ambiental y Económica, el SEEA.
+
+---
+
+### Diapositiva 11 — El puente hacia el SEEA: la ruta técnicamente factible
+
+El SEEA es la extensión ambiental del Sistema de Cuentas Nacionales. Ya existe, ya está estandarizado internacionalmente, y muchos países de la región lo están implementando. Y tiene exactamente lo que le falta a nuestra CSB: la dimensión física de los recursos naturales.
+
+El SEEA incluye Cuentas de Activos del Recurso Biológico, que cuantifican el stock y el flujo de los recursos biológicos: cuántos metros cúbicos de madera hay en los bosques, cuántas toneladas de peces hay en los mares, cómo cambia ese stock de un año a otro. Si integramos esos datos con nuestra CSB, podemos responder la pregunta de sostenibilidad: ¿estamos extrayendo más de lo que los ecosistemas pueden regenerar?
+
+Pero no hay que esperar a tener la integración completa con el SEEA para añadir dimensiones de sostenibilidad. Con los datos que ya existen en los COU más fuentes complementarias, ya se puede construir hoy indicadores relevantes: la eficiencia bioeconómica —cuánto valor agregado se genera por unidad de recurso biológico consumido—; la diversificación bioeconómica —si la bioeconomía depende de uno o dos productos de exportación o está distribuida en múltiples sectores—; el saldo exportador bioeconómico neto —si el país exporta más de lo que importa, señal posible de presión sobre sus propios ecosistemas—; y el gasto público en protección ambiental vinculado a la bioeconomía, que ya implementó Colombia.
+
+El BEA de Estados Unidos y el JRC europeo ya trabajan en la integración CSB-SEEA. Nosotros tenemos la ventaja de que el SCN y el SEEA ya están diseñados para trabajar juntos. La integración es técnicamente factible. Lo que hace falta es voluntad institucional y recursos para hacerlo.
+
+---
+
+### Diapositiva 12 — La riqueza de las naciones y la sostenibilidad bioeconómica
+
+Quiero situar esta discusión sobre sostenibilidad en un marco conceptual más amplio que creo que es muy pertinente para nosotros. Glenn-Marie Lange y sus colegas en el Banco Mundial han desarrollado, a través de la serie "The Changing Wealth of Nations", una forma de pensar la sostenibilidad que va más allá del PIB y que tiene implicaciones directas para cómo entendemos la bioeconomía.
+
+La idea central es esta: la riqueza de un país no es solo lo que produce en un año —el PIB—, sino el conjunto de activos que posee y que le permiten seguir produciendo en el futuro. Esos activos se dividen en cuatro grandes categorías: capital producido —infraestructura, maquinaria—, capital natural —recursos naturales, renovables y no renovables—, capital humano —el valor del conocimiento y la productividad de la gente— y activos externos netos.
+
+En los países de ingreso bajo, el capital natural representa el 47 por ciento de la riqueza total. En América Latina, los recursos biológicos —que son capital natural renovable— son una fracción muy significativa de ese capital. Los bosques, los suelos agrícolas, los recursos marinos: eso es lo que la CSB está midiendo cuando habla de bioeconomía.
+
+Ahora, el debate conceptual fundamental en la economía ambiental es el de la sustitutibilidad entre tipos de capital. La **sostenibilidad débil** asume que el capital natural puede ser sustituido por capital producido o humano: si extraemos petróleo o madera e invertimos las ganancias en educación o infraestructura, la riqueza total se mantiene aunque la natural decline. Ese es el principio subyacente del indicador de Ahorro Neto Ajustado que usa el Banco Mundial: si el ahorro neto ajustado por depleción de recursos naturales es positivo, el país está siendo sostenible.
+
+La **sostenibilidad fuerte**, en cambio, sostiene que algunos tipos de capital natural son irreemplazables —la biodiversidad, los servicios ecosistémicos, el clima— y que no importa cuánto capital humano o producido se acumule, no pueden compensar su pérdida.
+
+¿Y dónde entran los recursos biológicos que medimos en nuestra CSB? En un lugar especialmente interesante: son capital natural renovable. A diferencia del petróleo o los minerales, en principio pueden regenerarse. Pero esa regeneración no es automática. Depende de que las prácticas productivas no excedan la capacidad de carga de los ecosistemas. En términos del Banco Mundial: están del lado de los renovables, que si se gestionan bien "pueden producir beneficios a perpetuidad". Pero si se gestionan mal, se comportan como no renovables.
+
+Y aquí está la conexión directa con nuestra CSB: actualmente medimos el flujo de valor que genera la bioeconomía, pero no medimos el estado del stock del recurso biológico que la sustenta. Una CSB integrada con el SEEA podría decirnos si ese stock está siendo mantenido o erosionado. Eso es exactamente la diferencia entre medir solo el estado de resultados y mirar también el balance general —para usar la analogía que usan Lange y sus colegas.
+
+---
+
+### Diapositiva 13 — La agenda de estándares: lo que los países necesitan acordar
+
+Para avanzar hacia una comparabilidad más robusta y una dimensión de sostenibilidad más sólida, la región necesita ponerse de acuerdo en algunas cosas.
+
+Primero: una definición operativa común, o al menos un protocolo para declarar explícitamente en qué difiere cada CSB de la metodología de referencia. No es necesario que todos sean idénticos, pero sí es necesario que todos sepan en qué difieren y que esa diferencia esté documentada.
+
+Segundo: una lista mínima de indicadores que toda CSB de América Latina reporte. Cinco o diez indicadores básicos que permitan la comparación regional.
+
+Tercero: un protocolo de clasificación para los grupos de productos mixtos. Cuando un grupo de productos mezcla bioeconómicos y no bioeconómicos, ¿qué se hace? Necesitamos un criterio consensuado.
+
+Cuarto: una frecuencia de actualización y una alineación de años base. Si cada país actualiza su CSB cuando puede, nunca vamos a tener una comparación para el mismo año.
+
+Y quinto: una hoja de ruta para la integración progresiva con el SEEA, con hitos concretos y responsables identificados.
+
+Todo esto requiere un espacio de gobernanza estadística regional. Ese es un rol natural para CEPAL y para los institutos nacionales de estadística de la región.
+
+---
+
+### Diapositiva 14 — Desafíos políticos e institucionales
+
+Antes de terminar, quiero ser honesto sobre los desafíos que no son técnicos sino políticos e institucionales.
+
+La comparabilidad no es solo un problema de metodología. Es también un problema de incentivos. Los países pueden tener interés en definir su bioeconomía de la manera que la haga parecer más grande. No porque sean deshonestos, sino porque más grande implica más atención de política pública, más financiamiento internacional, más reconocimiento. Ese sesgo existe y hay que tenerlo en cuenta cuando se diseñan estándares de comparación.
+
+La institucionalización de las CSB requiere que los institutos de estadística la adopten como estadística oficial regular. Eso implica presupuesto, líneas de trabajo permanentes, reconocimiento en el plan estadístico nacional. Los institutos de estadística están bajo presión presupuestaria en toda la región; las CSB compiten con otras prioridades igualmente legítimas.
+
+Y la cooperación regional requiere coordinación política que va más allá de los estadísticos. Necesita que los ministerios de economía, de ambiente, de ciencia y tecnología hablen entre sí y con los organismos internacionales de manera articulada.
+
+No digo esto para desanimar, sino para que tengamos una imagen completa de lo que significa avanzar en este campo.
+
+---
+
+### Diapositiva 15 — Síntesis y propuesta
+
+Permítanme sintetizar lo que hemos visto hoy.
+
+Lo que ya tenemos: una metodología replicable, basada en el SCN, con clasificaciones internacionales, probada en trece países de América Latina. Una comparabilidad parcial verificada, suficiente para comparar órdenes de magnitud y tendencias. Y un caso pionero, Colombia, que está integrando la sostenibilidad como dimensión complementaria de su cuenta de bioeconomía.
+
+Lo que necesitamos: un acuerdo regional sobre un conjunto mínimo de indicadores comparables. Una hoja de ruta para integrar flujos físicos y activos del SEEA. Un mecanismo de gobernanza estadística regional para las CSB.
+
+Y lo que es factible: toda la ruta técnica existe. Los estándares internacionales, el SEEA, la integración con el SCN, todo está diseñado para hacer posible lo que estamos pidiendo. No estamos pidiendo inventar nada nuevo; estamos pidiendo usar lo que ya existe de manera más articulada y sostenida.
+
+Me gustaría cerrar con esto: la experiencia latinoamericana en cuentas satélite de bioeconomía es pionera a nivel mundial. El JRC europeo y el BEA norteamericano están trabajando en problemas similares y llegando a conclusiones similares a las nuestras. Tenemos algo que compartir con el mundo. Y eso empieza por ponernos de acuerdo entre nosotros. Muchas gracias.
+
+---

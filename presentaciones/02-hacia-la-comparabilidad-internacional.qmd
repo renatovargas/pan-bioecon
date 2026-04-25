@@ -1,0 +1,269 @@
+---
+title: "Hacia la comparabilidad internacional: estándares y desafíos en la medición de la bioeconomía"
+author: "Renato Vargas"
+date: "2026-04-24"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: slide
+    footer: "Comparabilidad internacional · Renato Vargas · CEPAL"
+  pptx: default
+lang: es
+engine: markdown
+---
+
+## El problema de fondo: ¿estamos midiendo lo mismo?
+
+- Existen decenas de iniciativas de medición de bioeconomía en el mundo
+- Cada una usa su propia definición, sus propios sectores, su propia frontera
+- Los números no son comparables y eso tiene consecuencias reales:
+  - Los países no pueden aprender unos de otros
+  - Los tomadores de decisiones no pueden hacer benchmarking
+  - Los compromisos internacionales se formulan sin base estadística común
+
+> *Si cada quien mide algo diferente, nadie mide nada.*
+
+::: {.notes}
+Arrancar con la paradoja: hay muchos números sobre bioeconomía en el mundo, pero muy pocos comparables entre sí. Eso es el problema que esta charla aborda.
+:::
+
+---
+
+## ¿Qué se está midiendo en el mundo?
+
+Tres grandes aproximaciones internacionales:
+
+1. **Enfoque de tablas insumo-producto** (JRC/Comisión Europea): estimación sistemática basada en proporciones de origen biológico por producto → UE-28: ~11 % del PIB en 2015
+2. **Enfoque de proporciones de productos biológicos** (*bio-based product shares*): opinión de expertos sectoriales → mayor subjetividad, variaciones de hasta 15 pp en el mismo país
+3. **Enfoque de cuentas satélite** (CEPAL, BEA/USDC): reorganización del SCN con clasificaciones internacionales → replicable, transparente, consistente con política macroeconómica
+
+[considerar incluir: cualquier cuadro o tabla comparativa de enfoques metodológicos que aparezca en la sección de introducción de S2300940_es.pdf, que resume las metodologías europeas y norteamericanas frente a la de CEPAL]
+
+::: {.notes}
+Presentar el mapa de enfoques antes de posicionar el de CEPAL. Esto da credibilidad: no es que no existan alternativas, es que la de CEPAL tiene ventajas específicas en el contexto latinoamericano.
+:::
+
+---
+
+## El ancla común: el Sistema de Cuentas Nacionales
+
+- La gran ventaja comparativa del enfoque de cuentas satélite: el SCN es un estándar internacional universalmente adoptado
+- Los COU son la columna vertebral del SCN y existen en todos los países con capacidad estadística mínima
+- Las clasificaciones internacionales (CIIU Rev. 4 y CPC Ver. 2.1) son el denominador común que permite comparar
+
+[considerar incluir: Recuadro 1 "Tipos de extensión del Sistema de Cuentas Nacionales" de S2300940_es.pdf, que explica los tres mecanismos de extensión y por qué se optó por el de cuentas de sectores clave]
+
+::: {.notes}
+El SCN es el punto de Arquímedes. Si todo el mundo usa el mismo sistema como base, las diferencias metodológicas son manejables y explicitables.
+:::
+
+---
+
+## Los bloques de comparabilidad: lo que es igual en los 13 países
+
+- **Definición de bioeconomía**: adoptada en las Cumbres Mundiales de Bioeconomía 2018 y 2020 (IACGB)
+- **Clasificación de recursos biológicos**: 7 tipos (biomasa agrícola, marina, forestal, residual, urbana, desechos líquidos, biodiversidad)
+- **Arquitectura contable**: cuadros de oferta y utilización bioeconómica con las mismas columnas y filas conceptuales
+- **Indicadores clave**: participación en producción, importaciones, exportaciones, consumo intermedio, consumo final y formación bruta de capital
+
+[considerar incluir: Cuadro 2 y Cuadro 3 "Estructura conceptual de cuadros de oferta y utilización bioeconómica" de S2300940_es.pdf, que muestran la arquitectura común]
+
+::: {.notes}
+Lo que es igual entre todos los países. Este es el núcleo de comparabilidad que ya existe.
+:::
+
+---
+
+## Los bloques de no comparabilidad: lo que varía y por qué
+
+- **Granularidad de los COU nacionales**: de 30 a más de 300 grupos de productos según el país
+- **Nomenclaturas locales**: adaptaciones de CIIU y CPC con diferente nivel de agregación
+- **Año de referencia**: los 13 países tienen datos de diferentes años (2016–2019 en la publicación de 2023)
+- **Cobertura sectorial**: algunos países carecen de datos de empleo o energía en sus COU
+- **Clasificaciones "mixtas"**: cuando un grupo de productos mezcla bioeconómicos y no bioeconómicos sin poder separarlos
+
+[considerar incluir: Cuadro 1 "América Latina y el Caribe (13 países): disponibilidad de datos de oferta y utilización, por país" de S2300940_es.pdf, que muestra la heterogeneidad en disponibilidad de datos]
+
+::: {.notes}
+La honestidad sobre las limitaciones es lo que da credibilidad. Los expertos en la sala ya saben que la comparabilidad perfecta no existe; lo que se puede hacer es explicitar qué es comparable y qué no.
+:::
+
+---
+
+## El resultado: ¿cuánto podemos comparar hoy?
+
+- Los **órdenes de magnitud** son comparables: todos los países muestran entre 13 % y 30 % de la producción como bioeconómica
+- Las **tendencias** son comparables: la bioeconomía tiene mayor peso en exportaciones que en producción en casi todos los países
+- Los **rankings relativos** son indicativos: no se pueden comparar décimas de punto porcentual entre países con distintas nomenclaturas
+- La **metodología de ajuste** (por consumo intermedio vs. por actividades) requiere explicitación para que la comparación sea válida
+
+[considerar incluir: Gráfico 5 "América Latina y el Caribe (13 países): contribución de la bioeconomía al valor agregado, según tipo de ajuste" de S2300940_es.pdf, que muestra las diferencias según el método de estimación del VA]
+
+::: {.notes}
+Este es un mensaje matizado: la comparabilidad es parcial pero real. No hay que tirar el trabajo hecho, sino saber hasta dónde llega.
+:::
+
+---
+
+## La frontera de producción: un desafío definitorio
+
+- ¿Se incluye la biotecnología como parte de la bioeconomía aunque no use biomasa directamente?
+- ¿Los biocombustibles son bioeconomía si desplazan cultivos alimentarios?
+- ¿Los servicios ecosistémicos forman parte de la bioeconomía aunque no pasen por el mercado?
+- La definición IACGB incluye "conocimiento, ciencia, tecnología e innovación" → abre la puerta a sectores no convencionales
+
+> El DANE de Colombia optó por incluir 8 aplicaciones priorizadas vinculadas a la biodiversidad sostenible. Eso da una CSB diferente pero igualmente legítima.
+
+::: {.notes}
+El debate sobre la frontera de producción no es solo metodológico, es político. Qué se incluye determina qué sectores reciben atención de política pública.
+:::
+
+---
+
+## El caso colombiano: un enfoque alternativo instructivo
+
+El DANE incorporó a su Cuenta de Bioeconomía (2019–2024):
+
+- **8 aplicaciones priorizadas** por la Misión de Bioeconomía y Territorio (MINCIENCIAS): bioinsumos, biorremediación, alimentos funcionales, fitomedicamentos, biopolímeros, biorrefinerías, cosmecéutica natural, turismo de naturaleza
+- **Indicadores asociados** (complementarios a la cuenta económica): gasto gubernamental ambiental vinculado a bioeconomía, investigadores en bioeconomía, alianzas CTI, indicadores SINCHI para la Amazonía, indicadores IAvH de biodiversidad
+- Participación del VA bioeconómico en el PIB de Colombia: ~0,13–0,15 % (definición restringida y distinta a la de CEPAL)
+
+[considerar incluir: Gráfico 1 o Gráfico 2 "Participación porcentual del valor agregado bruto de la Bioeconomía respecto al total del valor agregado bruto nacional" de bol-CB-2024pr.pdf, que muestra la serie temporal 2019–2024]
+
+::: {.notes}
+El caso colombiano no es correcto o incorrecto versus el de CEPAL: es diferente porque responde a una pregunta diferente. El DANE quiere medir la bioeconomía sostenible priorizada por política pública. Nosotros queremos medir la bioeconomía en el sentido macroeconómico amplio.
+:::
+
+---
+
+## Factibilidad de reforzar la sostenibilidad en las CSB
+
+La pregunta central: ¿puede una CSB decir si la bioeconomía que mide es sostenible?
+
+**Lo que la CSB actual puede hacer:**
+- Identificar qué sectores usan más recursos biológicos → señal de presión sobre ecosistemas
+- Medir la tasa impositiva implícita sobre productos bioeconómicos → señal de política fiscal
+- Rastrear cambios en el tiempo → permite detectar tendencias preocupantes
+
+**Lo que requiere extensión adicional:**
+- Flujos físicos de biomasa (toneladas) en paralelo a los monetarios
+- Cuentas de activos del SEEA (Capital Natural) integradas con la CSB
+- Indicadores de regeneración: ¿se extrae más de lo que se repone?
+
+::: {.notes}
+Responder honestamente a la pregunta sobre sostenibilidad. La CSB actual es un primer paso necesario pero no suficiente.
+:::
+
+---
+
+## El puente hacia el SEEA: la ruta técnicamente factible
+
+- El **Sistema de Contabilidad Ambiental y Económica (SEEA)** ya está diseñado para capturar la dimensión física de los recursos naturales
+- La CSB y el SEEA comparten la misma espina dorsal: los COU
+- La extensión natural: construir **Cuentas de Activos del Recurso Biológico** (SEEA-CF, Sección 5.3) que cuantifiquen el stock y el flujo de los recursos biológicos usados por la bioeconomía
+- El BEA de EE.UU. y el JRC europeo ya trabajan en esa dirección
+
+> *La factibilidad técnica está demostrada. Lo que falta es voluntad institucional y financiamiento.*
+
+[considerar incluir: Recuadro 1 "Tipos de extensión del Sistema de Cuentas Nacionales" de S2300940_es.pdf, que ya anticipa cómo el mecanismo de cuentas satélite puede expandirse hacia flujos físicos]
+
+::: {.notes}
+Este es el argumento central para la pregunta sobre sostenibilidad. No es ciencia ficción: es una extensión lógica de lo que ya existe.
+:::
+
+---
+
+## Los indicadores de sostenibilidad que son factibles hoy
+
+Con los datos de los COU + fuentes ambientales disponibles, ya es posible construir:
+
+1. **Tasa de uso bioeconómico por unidad de VA**: eficiencia en el uso de recursos biológicos
+2. **Índice de diversificación bioeconómica**: ¿cuántos sectores participan en la bioeconomía?
+3. **Proporción bioeconómica de las exportaciones netas**: ¿la región exporta más de lo que importa en bioeconomía?
+4. **Gasto público en protección ambiental vinculado a bioeconomía** (ya implementado por Colombia)
+5. **Empleo bioeconómico por nivel de formación** (si los COU tienen esa desagregación)
+
+[considerar incluir: Tabla 5 "Gasto del gobierno general en actividades ambientales vinculadas a la bioeconomía" de bol-CB-2024pr.pdf, como ejemplo concreto de indicador de sostenibilidad ya operativo]
+
+::: {.notes}
+No quedarse en la aspiración: mostrar qué se puede hacer ya. El ejemplo colombiano es el más avanzado en la región en integrar dimensiones de sostenibilidad.
+:::
+
+---
+
+## La agenda de estándares: lo que los países necesitan acordar
+
+Para llegar a una comparabilidad más robusta, la región necesita conversar sobre:
+
+1. **Definición operativa común** (o declarar explícitamente las diferencias)
+2. **Lista mínima de indicadores comparables** a reportar en toda CSB de ALC
+3. **Protocolo de clasificación** para los grupos de productos "mixtos"
+4. **Frecuencia de actualización** y alineación de años base
+5. **Integración progresiva con SEEA**: hoja de ruta con hitos y responsables
+
+> Esto requiere un espacio de gobernanza estadística regional —un rol natural para CEPAL y los institutos nacionales de estadística.
+
+::: {.notes}
+Proponer una agenda concreta. Los expertos en la sala pueden ser parte de esa conversación.
+:::
+
+---
+
+## Desafíos políticos e institucionales
+
+La comparabilidad no es solo un problema técnico:
+
+- Los países tienen incentivos para mostrar su bioeconomía como grande → sesgo hacia definiciones amplias
+- La institucionalización de la CSB requiere que los institutos de estadística la adopten como estadística oficial regular
+- Los presupuestos de las oficinas de estadística están bajo presión → las CSB compiten con otras prioridades
+- La cooperación regional requiere coordinación política que va más allá de los estadísticos
+
+> *Los datos no se producen en el vacío. Se producen en contextos institucionales con recursos, incentivos y política.*
+
+::: {.notes}
+Reconocer la dimensión política. Los expertos lo saben, pero vale la pena decirlo en voz alta.
+:::
+
+---
+
+## Síntesis y propuesta
+
+**Lo que ya tenemos:**
+- Una metodología replicable, basada en el SCN, con clasificaciones internacionales
+- 13 CSB con comparabilidad parcial verificada
+- Un caso avanzado (Colombia) que integra sostenibilidad como dimensión complementaria
+
+**Lo que necesitamos:**
+- Acuerdo regional sobre un conjunto mínimo de indicadores comparables
+- Hoja de ruta para integrar flujos físicos y activos del SEEA
+- Mecanismo de gobernanza estadística regional para las CSB
+
+**Lo que es factible:**
+- Toda la ruta técnica existe; los estándares internacionales ya la contemplan
+- La experiencia latinoamericana puede liderar globalmente en este campo
+
+::: {.notes}
+Cerrar con un balance honesto: lo que tenemos, lo que falta, lo que es posible. Mensaje optimista pero sin triunfalismo.
+:::
+
+---
+
+## Gracias
+
+**Renato Vargas**  
+Consultor, División de Recursos Naturales  
+Comisión Económica para América Latina y el Caribe (CEPAL)
+
+Publicaciones de referencia:
+
+- Vargas et al. (2022). *Cuenta satélite de bioeconomía para Costa Rica.* CEPAL, Serie RND N° 214.
+- Vargas, Mondaini & Rodríguez (2023). *Cuentas satélite de bioeconomía para 13 países de ALC.* CEPAL, Serie RND N° 219.
+- Vargas (2025). *CSB con el SCN de Ecuador.* CEPAL.
+- DANE (2025). *Boletín técnico: Cuenta de Bioeconomía 2019–2024pr.* Bogotá.
+- Kuosmanen et al. (2020). *How big is the bioeconomy?* JRC, Comisión Europea.
+- Highfill & Chambers (2023). *Developing a National Measure of the Economic Contributions of the Bioeconomy.* BEA, USDC.
+
+::: {.notes}
+Diapositiva de cierre con referencias completas para el público experto.
+:::
