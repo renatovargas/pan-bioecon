@@ -42,6 +42,9 @@ procesar_cuadrante_simple <- function(
     col_names = FALSE
   )
 
+  # asignar ids de fila
+  raw$row_id <- filas_ref$row_id[seq_len(nrow(raw))]
+
   # excluir filas/columnas
   if (length(excl_rows) > 0) {
     raw <- raw[-excl_rows, ]
@@ -51,8 +54,7 @@ procesar_cuadrante_simple <- function(
     raw <- raw[, -excl_cols]
   }
 
-  # asignar ids de fila
-  raw$row_id <- filas_ref$row_id[seq_len(nrow(raw))]
+  
 
   df_long <- raw %>%
     pivot_longer(

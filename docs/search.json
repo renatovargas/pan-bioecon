@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Cuenta de Bioeconomía de Panamá",
-    "section": "",
-    "text": "Sitio de la Cuenta de Bioeconomía de Panamá."
-  },
-  {
     "objectID": "documentos/cb-panama.html",
     "href": "documentos/cb-panama.html",
     "title": "Cuenta de Bioeconomía de Panamá",
@@ -75,5 +68,12 @@
     "crumbs": [
       "Documentos"
     ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cuenta de Bioeconomía de Panamá",
+    "section": "",
+    "text": "Sitio de la Cuenta de Bioeconomía de Panamá."
   }
 ]
